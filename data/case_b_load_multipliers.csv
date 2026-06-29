@@ -1,0 +1,7 @@
+component,routine production,high-throughput,thermal cycling,restart/standby
+C1 redundant inlet unit,1.0,1.55,1.3,1.2
+C2 redundant inlet unit,1.0,1.45,1.4,1.3
+C3 conditioning module,1.0,2.1,1.8,1.5
+C4 redundant processing unit,1.0,1.4,1.9,1.6
+C5 redundant processing unit,1.0,1.5,2.0,1.7
+C6 output interface,1.0,1.8,1.6,2.2

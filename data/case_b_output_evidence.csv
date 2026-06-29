@@ -1,0 +1,10 @@
+quantity,value
+system_topology,(C1 || C2) - C3 - (C4 || C5) - C6
+output_evidence_profile,nominal
+output_evidence_time_h,400.0
+Y_o_reliability_observation,0.76
+Y_o_sigma,0.028
+Y_o_discrepancy_scenarios,-0.015;0.0;0.015
+nominal_profile,0.5;0.25;0.15;0.1
+stressed_profile,0.22;0.38;0.25;0.15
+observed_evidence_profile,0.45;0.27;0.18;0.1

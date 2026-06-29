@@ -1,0 +1,31 @@
+random_seed: 20260611
+importance_samples_main: 20000
+sampling_stability_samples:
+  - 10000
+  - 20000
+  - 50000
+mission_time_h: 400.0
+reliability_requirement: 0.78
+time_grid_h:
+  start: 0.0
+  stop: 600.0
+  points: 121
+operational_profiles:
+  nominal: [0.65, 0.25, 0.10]
+  stressed: [0.30, 0.50, 0.20]
+  observed_evidence: [0.60, 0.28, 0.12]
+case_b:
+  topology: "(C1 || C2) - C3 - (C4 || C5) - C6"
+  nominal_profile: [0.50, 0.25, 0.15, 0.10]
+  stressed_profile: [0.22, 0.38, 0.25, 0.15]
+  observed_evidence_profile: [0.45, 0.27, 0.18, 0.10]
+  output_evidence:
+    activated: true
+    reliability_observation_at_400h: 0.760
+    sigma: 0.028
+    discrepancy_scenarios: [-0.015, 0.000, 0.015]
+notes:
+  data_type: controlled synthetic numerical data
+  field_validation: false
+  proprietary_industrial_data: false
+  private_maintenance_records: false

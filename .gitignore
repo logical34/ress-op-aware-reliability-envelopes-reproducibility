@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+figures/
+public_data/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz

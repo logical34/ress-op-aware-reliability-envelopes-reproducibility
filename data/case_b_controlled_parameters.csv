@@ -1,0 +1,7 @@
+component,expert_mid_baseline_hazard,field_failures,field_exposure_h,sensor_hazard_evidence,simulation_hazard_evidence,log_hazard_evidence,llm_text_hazard_evidence
+C1 redundant inlet unit,0.0002,0,6500.0,0.00028,0.00025,0.0003,0.00029
+C2 redundant inlet unit,0.00022,1,6000.0,0.00033,0.0003,0.00035,0.00036
+C3 conditioning module,0.00027,1,5700.0,0.00041,0.00037,0.00043,0.00044
+C4 redundant processing unit,0.00018,0,6400.0,0.00025,0.00022,0.00026,0.00027
+C5 redundant processing unit,0.00021,1,5900.0,0.00033,0.0003,0.00036,0.00037
+C6 output interface,0.00024,0,6200.0,0.00038,0.00035,0.0004,0.00041

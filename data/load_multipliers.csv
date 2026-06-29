@@ -1,0 +1,5 @@
+component,Nominal transfer,High load,Start-stop
+Motor/drive,1.0,2.0,1.5
+Bearing train,1.0,2.6,2.0
+Seal/hydraulic path,1.0,2.8,2.2
+Controller/protection,1.0,1.7,2.3
