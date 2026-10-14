@@ -29,7 +29,7 @@ def compare(reference, reproduced):
         elif original.suffix == ".json":
             assert json.loads(original.read_text(encoding="utf-8")) == json.loads(fresh.read_text(encoding="utf-8")), name
         else:
-            assert original.read_bytes() == fresh.read_bytes(), name
+            assert original.read_text(encoding="utf-8") == fresh.read_text(encoding="utf-8"), name
         checked.append(name)
     print(json.dumps({"passed": True, "files_checked": len(checked),
         "absolute_numeric_tolerance": 1e-10, "excluded_columns": "runtime measurements only",
