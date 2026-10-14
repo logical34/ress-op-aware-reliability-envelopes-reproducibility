@@ -1,0 +1,1465 @@
+profile,prior,strength,time_h,posterior_mean_reliability
+nominal,optimistic topology-B prior,balanced full fusion,0,1.0000000000000082
+nominal,optimistic topology-B prior,balanced full fusion,20,0.99992460322759236
+nominal,optimistic topology-B prior,balanced full fusion,40,0.99950886103804948
+nominal,optimistic topology-B prior,balanced full fusion,60,0.99851824672539047
+nominal,optimistic topology-B prior,balanced full fusion,80,0.99674392963384406
+nominal,optimistic topology-B prior,balanced full fusion,100,0.99399111855570033
+nominal,optimistic topology-B prior,balanced full fusion,120,0.99007626481680966
+nominal,optimistic topology-B prior,balanced full fusion,140,0.98482682424346712
+nominal,optimistic topology-B prior,balanced full fusion,160,0.97808221802233841
+nominal,optimistic topology-B prior,balanced full fusion,180,0.96969548075909395
+nominal,optimistic topology-B prior,balanced full fusion,200,0.95953533440116767
+nominal,optimistic topology-B prior,balanced full fusion,220,0.94748851734856809
+nominal,optimistic topology-B prior,balanced full fusion,240,0.93346223355172775
+nominal,optimistic topology-B prior,balanced full fusion,260,0.91738660009539186
+nominal,optimistic topology-B prior,balanced full fusion,280,0.89921697674656886
+nominal,optimistic topology-B prior,balanced full fusion,300,0.87893606321459417
+nominal,optimistic topology-B prior,balanced full fusion,320,0.85655565262508704
+nominal,optimistic topology-B prior,balanced full fusion,340,0.83211793483686491
+nominal,optimistic topology-B prior,balanced full fusion,360,0.80569625190406835
+nominal,optimistic topology-B prior,balanced full fusion,380,0.77739522088492152
+nominal,optimistic topology-B prior,balanced full fusion,400,0.74735015660219528
+nominal,optimistic topology-B prior,balanced full fusion,420,0.71572574876399997
+nominal,optimistic topology-B prior,balanced full fusion,440,0.68271397358834729
+nominal,optimistic topology-B prior,balanced full fusion,460,0.64853124891718394
+nominal,optimistic topology-B prior,balanced full fusion,480,0.61341487260998928
+nominal,optimistic topology-B prior,balanced full fusion,500,0.57761881535750426
+nominal,optimistic topology-B prior,balanced full fusion,520,0.54140896934252025
+nominal,optimistic topology-B prior,balanced full fusion,540,0.50505798168858596
+nominal,optimistic topology-B prior,balanced full fusion,560,0.46883982468777419
+nominal,optimistic topology-B prior,balanced full fusion,580,0.4330242718354857
+nominal,optimistic topology-B prior,balanced full fusion,600,0.39787145843733918
+nominal,optimistic topology-B prior,balanced full fusion,620,0.36362670708362338
+nominal,optimistic topology-B prior,balanced full fusion,640,0.33051579117273905
+nominal,optimistic topology-B prior,balanced full fusion,660,0.29874079399879372
+nominal,optimistic topology-B prior,balanced full fusion,680,0.26847669734420604
+nominal,optimistic topology-B prior,balanced full fusion,700,0.23986880320779955
+nominal,optimistic topology-B prior,balanced full fusion,720,0.2130310568874379
+nominal,optimistic topology-B prior,balanced full fusion,740,0.18804530111377987
+nominal,optimistic topology-B prior,balanced full fusion,760,0.1649614515046772
+nominal,optimistic topology-B prior,balanced full fusion,780,0.14379854554174942
+nominal,optimistic topology-B prior,balanced full fusion,800,0.12454658271540361
+nominal,optimistic topology-B prior,balanced full fusion,820,0.10716904432897786
+nominal,optimistic topology-B prior,balanced full fusion,840,0.091605959180688284
+nominal,optimistic topology-B prior,balanced full fusion,860,0.077777366935457948
+nominal,optimistic topology-B prior,balanced full fusion,880,0.065587024879832465
+nominal,optimistic topology-B prior,balanced full fusion,900,0.054926205777211683
+nominal,optimistic topology-B prior,balanced full fusion,920,0.045677444033611181
+nominal,optimistic topology-B prior,balanced full fusion,940,0.03771810322416258
+nominal,optimistic topology-B prior,balanced full fusion,960,0.030923658760550223
+nominal,optimistic topology-B prior,balanced full fusion,980,0.025170613441019053
+nominal,optimistic topology-B prior,balanced full fusion,1000,0.02033898909765346
+nominal,optimistic topology-B prior,balanced full fusion,1020,0.016314362892939454
+nominal,optimistic topology-B prior,balanced full fusion,1040,0.012989440559672572
+nominal,optimistic topology-B prior,balanced full fusion,1060,0.010265179841810962
+nominal,optimistic topology-B prior,balanced full fusion,1080,0.0080514947276155435
+nominal,optimistic topology-B prior,balanced full fusion,1100,0.0062675842729724021
+nominal,optimistic topology-B prior,balanced full fusion,1120,0.0048419387382811927
+nominal,optimistic topology-B prior,balanced full fusion,1140,0.0037120805591728946
+nominal,optimistic topology-B prior,balanced full fusion,1160,0.0028240987410045495
+nominal,optimistic topology-B prior,balanced full fusion,1180,0.0021320331908507503
+nominal,optimistic topology-B prior,balanced full fusion,1200,0.001597160966637681
+stressed,optimistic topology-B prior,balanced full fusion,0,1.0000000000000082
+stressed,optimistic topology-B prior,balanced full fusion,20,0.99991185224621404
+stressed,optimistic topology-B prior,balanced full fusion,40,0.99942600590502995
+stressed,optimistic topology-B prior,balanced full fusion,60,0.99826863470773419
+stressed,optimistic topology-B prior,balanced full fusion,80,0.99619611648585815
+stressed,optimistic topology-B prior,balanced full fusion,100,0.99298166461649584
+stressed,optimistic topology-B prior,balanced full fusion,120,0.98841239864549857
+stressed,optimistic topology-B prior,balanced full fusion,140,0.98228946305954323
+stressed,optimistic topology-B prior,balanced full fusion,160,0.97442958736021512
+stressed,optimistic topology-B prior,balanced full fusion,180,0.96466747007820552
+stressed,optimistic topology-B prior,balanced full fusion,200,0.95285865825710891
+stressed,optimistic topology-B prior,balanced full fusion,220,0.93888269599760465
+stressed,optimistic topology-B prior,balanced full fusion,240,0.9226463537533629
+stressed,optimistic topology-B prior,balanced full fusion,260,0.90408676379668729
+stressed,optimistic topology-B prior,balanced full fusion,280,0.88317429236360756
+stressed,optimistic topology-B prior,balanced full fusion,300,0.85991498289265611
+stressed,optimistic topology-B prior,balanced full fusion,320,0.83435241155245921
+stressed,optimistic topology-B prior,balanced full fusion,340,0.80656880832159594
+stressed,optimistic topology-B prior,balanced full fusion,360,0.77668531563777665
+stressed,optimistic topology-B prior,balanced full fusion,380,0.74486128269200269
+stressed,optimistic topology-B prior,balanced full fusion,400,0.7112925267211867
+stressed,optimistic topology-B prior,balanced full fusion,420,0.67620853238694134
+stressed,optimistic topology-B prior,balanced full fusion,440,0.63986860510974319
+stressed,optimistic topology-B prior,balanced full fusion,460,0.60255704206036653
+stressed,optimistic topology-B prior,balanced full fusion,480,0.56457743291325257
+stressed,optimistic topology-B prior,balanced full fusion,500,0.52624624862840874
+stressed,optimistic topology-B prior,balanced full fusion,520,0.48788591749505683
+stressed,optimistic topology-B prior,balanced full fusion,540,0.44981762057520025
+stressed,optimistic topology-B prior,balanced full fusion,560,0.41235406098521676
+stressed,optimistic topology-B prior,balanced full fusion,580,0.37579247116359121
+stressed,optimistic topology-B prior,balanced full fusion,600,0.34040811817006639
+stressed,optimistic topology-B prior,balanced full fusion,620,0.30644854883385864
+stressed,optimistic topology-B prior,balanced full fusion,640,0.27412878489727882
+stressed,optimistic topology-B prior,balanced full fusion,660,0.24362763485222116
+stressed,optimistic topology-B prior,balanced full fusion,680,0.21508523649871708
+stressed,optimistic topology-B prior,balanced full fusion,700,0.18860188563552388
+stressed,optimistic topology-B prior,balanced full fusion,720,0.16423814545227713
+stressed,optimistic topology-B prior,balanced full fusion,740,0.14201617202254924
+stressed,optimistic topology-B prior,balanced full fusion,760,0.12192213753280606
+stressed,optimistic topology-B prior,balanced full fusion,780,0.10390958779964349
+stressed,optimistic topology-B prior,balanced full fusion,800,0.087903536780337091
+stressed,optimistic topology-B prior,balanced full fusion,820,0.073805079810547847
+stressed,optimistic topology-B prior,balanced full fusion,840,0.061496299832465628
+stressed,optimistic topology-B prior,balanced full fusion,860,0.050845246508929909
+stressed,optimistic topology-B prior,balanced full fusion,880,0.041710785521285626
+stressed,optimistic topology-B prior,balanced full fusion,900,0.033947142422473209
+stressed,optimistic topology-B prior,balanced full fusion,920,0.027407999526506657
+stressed,optimistic topology-B prior,balanced full fusion,940,0.021950042550055407
+stressed,optimistic topology-B prior,balanced full fusion,960,0.017435893160298137
+stressed,optimistic topology-B prior,balanced full fusion,980,0.013736401536827285
+stressed,optimistic topology-B prior,balanced full fusion,1000,0.010732307264058777
+stressed,optimistic topology-B prior,balanced full fusion,1020,0.0083153056383136071
+stressed,optimistic topology-B prior,balanced full fusion,1040,0.0063885787360123325
+stressed,optimistic topology-B prior,balanced full fusion,1060,0.0048668659141570614
+stressed,optimistic topology-B prior,balanced full fusion,1080,0.0036761569445998791
+stressed,optimistic topology-B prior,balanced full fusion,1100,0.0027530933365211489
+stressed,optimistic topology-B prior,balanced full fusion,1120,0.002044160539248737
+stressed,optimistic topology-B prior,balanced full fusion,1140,0.0015047468085603781
+stressed,optimistic topology-B prior,balanced full fusion,1160,0.0010981348054830062
+stressed,optimistic topology-B prior,balanced full fusion,1180,0.0007944806765222271
+stressed,optimistic topology-B prior,balanced full fusion,1200,0.00056982350574158144
+nominal,optimistic topology-B prior,skeptical text fusion,0,0.99999999999999545
+nominal,optimistic topology-B prior,skeptical text fusion,20,0.99992451526690307
+nominal,optimistic topology-B prior,skeptical text fusion,40,0.99950827954047405
+nominal,optimistic topology-B prior,skeptical text fusion,60,0.99851647190361914
+nominal,optimistic topology-B prior,skeptical text fusion,80,0.99673999189942486
+nominal,optimistic topology-B prior,skeptical text fusion,100,0.99398379303464557
+nominal,optimistic topology-B prior,skeptical text fusion,120,0.99006408596475926
+nominal,optimistic topology-B prior,skeptical text fusion,140,0.98480810370604066
+nominal,optimistic topology-B prior,skeptical text fusion,160,0.97805506737042691
+nominal,optimistic topology-B prior,skeptical text fusion,180,0.96965784008557832
+nominal,optimistic topology-B prior,skeptical text fusion,200,0.95948500735153608
+nominal,optimistic topology-B prior,skeptical text fusion,220,0.94742321280628738
+nominal,optimistic topology-B prior,skeptical text fusion,240,0.93337961385376844
+nominal,optimistic topology-B prior,skeptical text fusion,260,0.91728433529822906
+nominal,optimistic topology-B prior,skeptical text fusion,280,0.89909280409730241
+nominal,optimistic topology-B prior,skeptical text fusion,300,0.87878785061476539
+nominal,optimistic topology-B prior,skeptical text fusion,320,0.85638146452064889
+nominal,optimistic topology-B prior,skeptical text fusion,340,0.83191609864476324
+nominal,optimistic topology-B prior,skeptical text fusion,360,0.80546542281475686
+nominal,optimistic topology-B prior,skeptical text fusion,380,0.77713444268243592
+nominal,optimistic topology-B prior,skeptical text fusion,400,0.74705891603867369
+nominal,optimistic topology-B prior,skeptical text fusion,420,0.71540402103188538
+nominal,optimistic topology-B prior,skeptical text fusion,440,0.68236225656382132
+nominal,optimistic topology-B prior,skeptical text fusion,460,0.64815058410856441
+nominal,optimistic topology-B prior,skeptical text fusion,480,0.61300685113498998
+nominal,optimistic topology-B prior,skeptical text fusion,500,0.57718556778304531
+nominal,optimistic topology-B prior,skeptical text fusion,520,0.54095313883237262
+nominal,optimistic topology-B prior,skeptical text fusion,540,0.50458268059040012
+nominal,optimistic topology-B prior,skeptical text fusion,560,0.4683485754180613
+nominal,optimistic topology-B prior,skeptical text fusion,580,0.43252093364866401
+nominal,optimistic topology-B prior,skeptical text fusion,600,0.39736014235052924
+nominal,optimistic topology-B prior,skeptical text fusion,620,0.36311168182943027
+nominal,optimistic topology-B prior,skeptical text fusion,640,0.33000138352750674
+nominal,optimistic topology-B prior,skeptical text fusion,660,0.29823128715103103
+nominal,optimistic topology-B prior,skeptical text fusion,680,0.26797623110176749
+nominal,optimistic topology-B prior,skeptical text fusion,700,0.23938127978094642
+nominal,optimistic topology-B prior,skeptical text fusion,720,0.21256005572757822
+nominal,optimistic topology-B prior,skeptical text fusion,740,0.18759400584825622
+nominal,optimistic topology-B prior,skeptical text fusion,760,0.16453259141213489
+nominal,optimistic topology-B prior,skeptical text fusion,780,0.14339435329732467
+nominal,optimistic topology-B prior,skeptical text fusion,800,0.12416876934492607
+nominal,optimistic topology-B prior,skeptical text fusion,820,0.1068187914959426
+nominal,optimistic topology-B prior,skeptical text fusion,840,0.091283928139160989
+nominal,optimistic topology-B prior,skeptical text fusion,860,0.077483722763230845
+nominal,optimistic topology-B prior,skeptical text fusion,880,0.06532147399956123
+nominal,optimistic topology-B prior,skeptical text fusion,900,0.054688044309701957
+nominal,optimistic topology-B prior,skeptical text fusion,920,0.045465614226391407
+nominal,optimistic topology-B prior,skeptical text fusion,940,0.037531255066963198
+nominal,optimistic topology-B prior,skeptical text fusion,960,0.030760213932245282
+nominal,optimistic topology-B prior,skeptical text fusion,980,0.025028828913941443
+nominal,optimistic topology-B prior,skeptical text fusion,1000,0.020217018030088733
+nominal,optimistic topology-B prior,skeptical text fusion,1020,0.016210310838009289
+nominal,optimistic topology-B prior,skeptical text fusion,1040,0.012901415474474839
+nominal,optimistic topology-B prior,skeptical text fusion,1060,0.010191334860081227
+nominal,optimistic topology-B prior,skeptical text fusion,1080,0.0079900631302571926
+nominal,optimistic topology-B prior,skeptical text fusion,1100,0.0062169065260779853
+nominal,optimistic topology-B prior,skeptical text fusion,1120,0.0048004818464096183
+nominal,optimistic topology-B prior,skeptical text fusion,1140,0.0036784502882181796
+nominal,optimistic topology-B prior,skeptical text fusion,1160,0.0027970454926461836
+nominal,optimistic topology-B prior,skeptical text fusion,1180,0.0021104524584745102
+nominal,optimistic topology-B prior,skeptical text fusion,1200,0.0015800893755182619
+stressed,optimistic topology-B prior,skeptical text fusion,0,0.99999999999999545
+stressed,optimistic topology-B prior,skeptical text fusion,20,0.99991174936652516
+stressed,optimistic topology-B prior,skeptical text fusion,40,0.99942532577787646
+stressed,optimistic topology-B prior,skeptical text fusion,60,0.99826655869754521
+stressed,optimistic topology-B prior,skeptical text fusion,80,0.99619151046693832
+stressed,optimistic topology-B prior,skeptical text fusion,100,0.99297309692399893
+stressed,optimistic topology-B prior,skeptical text fusion,120,0.98839815906664508
+stressed,optimistic topology-B prior,skeptical text fusion,140,0.98226758668393277
+stressed,optimistic topology-B prior,skeptical text fusion,160,0.97439788528500315
+stressed,optimistic topology-B prior,skeptical text fusion,180,0.96462356814401518
+stressed,optimistic topology-B prior,skeptical text fusion,200,0.95280004442206312
+stressed,optimistic topology-B prior,skeptical text fusion,220,0.93880677644506616
+stressed,optimistic topology-B prior,skeptical text fusion,240,0.92255051731312099
+stressed,optimistic topology-B prior,skeptical text fusion,260,0.90396845372680767
+stressed,optimistic topology-B prior,skeptical text fusion,280,0.88303108399845553
+stressed,optimistic topology-B prior,skeptical text fusion,300,0.85974466513176917
+stressed,optimistic topology-B prior,skeptical text fusion,320,0.83415306967385749
+stressed,optimistic topology-B prior,skeptical text fusion,340,0.80633890518367235
+stressed,optimistic topology-B prior,skeptical text fusion,360,0.77642376802205493
+stressed,optimistic topology-B prior,skeptical text fusion,380,0.74456752936795734
+stressed,optimistic topology-B prior,skeptical text fusion,400,0.71096658481295416
+stressed,optimistic topology-B prior,skeptical text fusion,420,0.67585103881256592
+stressed,optimistic topology-B prior,skeptical text fusion,440,0.63948084025697394
+stressed,optimistic topology-B prior,skeptical text fusion,460,0.60214093345604314
+stressed,optimistic topology-B prior,skeptical text fusion,480,0.56413553742014122
+stressed,optimistic topology-B prior,skeptical text fusion,500,0.52578171262994955
+stressed,optimistic topology-B prior,skeptical text fusion,520,0.48740241555874991
+stressed,optimistic topology-B prior,skeptical text fusion,540,0.44931927416005374
+stressed,optimistic topology-B prior,skeptical text fusion,560,0.41184533981015159
+stressed,optimistic topology-B prior,skeptical text fusion,580,0.37527808081133229
+stressed,optimistic topology-B prior,skeptical text fusion,600,0.33989287829593096
+stressed,optimistic topology-B prior,skeptical text fusion,620,0.30593726692048062
+stressed,optimistic topology-B prior,skeptical text fusion,640,0.27362613079786213
+stressed,optimistic topology-B prior,skeptical text fusion,660,0.24313802136801824
+stressed,optimistic topology-B prior,skeptical text fusion,680,0.21461271093412571
+stressed,optimistic topology-B prior,skeptical text fusion,700,0.18815003668302882
+stressed,optimistic topology-B prior,skeptical text fusion,720,0.16381002891766724
+stressed,optimistic topology-B prior,skeptical text fusion,740,0.14161425786599449
+stressed,optimistic topology-B prior,skeptical text fusion,760,0.12154827954614106
+stressed,optimistic topology-B prior,skeptical text fusion,780,0.10356501604460185
+stressed,optimistic topology-B prior,skeptical text fusion,800,0.087588871758812054
+stressed,optimistic topology-B prior,skeptical text fusion,820,0.073520366302185391
+stressed,optimistic topology-B prior,skeptical text fusion,840,0.061241057481336639
+stressed,optimistic topology-B prior,skeptical text fusion,860,0.050618533616804372
+stressed,optimistic topology-B prior,skeptical text fusion,880,0.041511272136930483
+stressed,optimistic topology-B prior,skeptical text fusion,900,0.033773188710063427
+stressed,optimistic topology-B prior,skeptical text fusion,920,0.027257735536604474
+stressed,optimistic topology-B prior,skeptical text fusion,940,0.021821445871202595
+stressed,optimistic topology-B prior,skeptical text fusion,960,0.01732686145220905
+stressed,optimistic topology-B prior,skeptical text fusion,980,0.013644817583469434
+stressed,optimistic topology-B prior,skeptical text fusion,1000,0.010656094879855325
+stressed,optimistic topology-B prior,skeptical text fusion,1020,0.0082524754590678345
+stressed,optimistic topology-B prior,skeptical text fusion,1040,0.0063372635804345824
+stressed,optimistic topology-B prior,skeptical text fusion,1060,0.0048253459745157814
+stressed,optimistic topology-B prior,skeptical text fusion,1080,0.0036428755301723022
+stressed,optimistic topology-B prior,skeptical text fusion,1100,0.0027266642375221397
+stressed,optimistic topology-B prior,skeptical text fusion,1120,0.0020233682995051418
+stressed,optimistic topology-B prior,skeptical text fusion,1140,0.001488541299833344
+stressed,optimistic topology-B prior,skeptical text fusion,1160,0.0010856214998520952
+stressed,optimistic topology-B prior,skeptical text fusion,1180,0.00078490793525115327
+stressed,optimistic topology-B prior,skeptical text fusion,1200,0.00056256806537948053
+nominal,optimistic topology-B prior,sensor-emphasized fusion,0,1.000000000000004
+nominal,optimistic topology-B prior,sensor-emphasized fusion,20,0.99992435318832995
+nominal,optimistic topology-B prior,sensor-emphasized fusion,40,0.99950722282507543
+nominal,optimistic topology-B prior,sensor-emphasized fusion,60,0.99851327245149579
+nominal,optimistic topology-B prior,sensor-emphasized fusion,80,0.99673293069295577
+nominal,optimistic topology-B prior,sensor-emphasized fusion,100,0.99397070443674418
+nominal,optimistic topology-B prior,sensor-emphasized fusion,120,0.99004238144475376
+nominal,optimistic topology-B prior,sensor-emphasized fusion,140,0.98477480119942518
+nominal,optimistic topology-B prior,sensor-emphasized fusion,160,0.97800682949179174
+nominal,optimistic topology-B prior,sensor-emphasized fusion,180,0.96959102315973311
+nominal,optimistic topology-B prior,sensor-emphasized fusion,200,0.95939572243237659
+nominal,optimistic topology-B prior,sensor-emphasized fusion,220,0.94730739918025708
+nominal,optimistic topology-B prior,sensor-emphasized fusion,240,0.93323312486573229
+nominal,optimistic topology-B prior,sensor-emphasized fusion,260,0.91710303565795714
+nominal,optimistic topology-B prior,sensor-emphasized fusion,280,0.89887267712453567
+nominal,optimistic topology-B prior,sensor-emphasized fusion,300,0.87852511317572857
+nominal,optimistic topology-B prior,sensor-emphasized fusion,320,0.85607268672840675
+nominal,optimistic topology-B prior,sensor-emphasized fusion,340,0.8315583247759385
+nominal,optimistic topology-B prior,sensor-emphasized fusion,360,0.80505628937514695
+nominal,optimistic topology-B prior,sensor-emphasized fusion,380,0.77667228917754627
+nominal,optimistic topology-B prior,sensor-emphasized fusion,400,0.74654288380948153
+nominal,optimistic topology-B prior,sensor-emphasized fusion,420,0.714834135536496
+nominal,optimistic topology-B prior,sensor-emphasized fusion,440,0.68173948874509116
+nominal,optimistic topology-B prior,sensor-emphasized fusion,460,0.64747688699926187
+nominal,optimistic topology-B prior,sensor-emphasized fusion,480,0.61228516861093563
+nominal,optimistic topology-B prior,sensor-emphasized fusion,500,0.57641981336165549
+nominal,optimistic topology-B prior,sensor-emphasized fusion,520,0.54014814359103325
+nominal,optimistic topology-B prior,sensor-emphasized fusion,540,0.50374411059208035
+nominal,optimistic topology-B prior,sensor-emphasized fusion,560,0.46748282041295369
+nominal,optimistic topology-B prior,sensor-emphasized fusion,580,0.43163497019148606
+nominal,optimistic topology-B prior,sensor-emphasized fusion,600,0.39646137575107743
+nominal,optimistic topology-B prior,sensor-emphasized fusion,620,0.36220777245563218
+nominal,optimistic topology-B prior,sensor-emphasized fusion,640,0.32910006383170448
+nominal,optimistic topology-B prior,sensor-emphasized fusion,660,0.29734017632846088
+nominal,optimistic topology-B prior,sensor-emphasized fusion,680,0.26710265447381815
+nominal,optimistic topology-B prior,sensor-emphasized fusion,700,0.23853209980406148
+nominal,optimistic topology-B prior,sensor-emphasized fusion,720,0.21174152096806956
+nominal,optimistic topology-B prior,sensor-emphasized fusion,740,0.18681162336478593
+nominal,optimistic topology-B prior,sensor-emphasized fusion,760,0.16379102680682223
+nominal,optimistic topology-B prior,sensor-emphasized fusion,780,0.14269736130785668
+nominal,optimistic topology-B prior,sensor-emphasized fusion,800,0.12351915634290556
+nominal,optimistic topology-B prior,sensor-emphasized fusion,820,0.10621840972660733
+nominal,optimistic topology-B prior,sensor-emphasized fusion,840,0.090733700079861743
+nominal,optimistic topology-B prior,sensor-emphasized fusion,860,0.076983692679783583
+nominal,optimistic topology-B prior,sensor-emphasized fusion,880,0.064870882713295927
+nominal,optimistic topology-B prior,sensor-emphasized fusion,900,0.054285422406590907
+nominal,optimistic topology-B prior,sensor-emphasized fusion,920,0.045108888472918156
+nominal,optimistic topology-B prior,sensor-emphasized fusion,940,0.037217862651377137
+nominal,optimistic topology-B prior,sensor-emphasized fusion,960,0.030487219307557708
+nominal,optimistic topology-B prior,sensor-emphasized fusion,980,0.024793038443634355
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1000,0.020015088276824279
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1020,0.016038847127431949
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1040,0.012757058244291979
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1060,0.010070832204210931
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1080,0.0078903288106195266
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1100,0.006135063502391085
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1120,0.0047338920315204425
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1140,0.0036247317510561296
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1160,0.0027540786941212172
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1180,0.0020763773207564083
+nominal,optimistic topology-B prior,sensor-emphasized fusion,1200,0.0015532950650487736
+stressed,optimistic topology-B prior,sensor-emphasized fusion,0,1.000000000000004
+stressed,optimistic topology-B prior,sensor-emphasized fusion,20,0.99991155967702672
+stressed,optimistic topology-B prior,sensor-emphasized fusion,40,0.99942408869271881
+stressed,optimistic topology-B prior,sensor-emphasized fusion,60,0.99826281181050336
+stressed,optimistic topology-B prior,sensor-emphasized fusion,80,0.99618323868728076
+stressed,optimistic topology-B prior,sensor-emphasized fusion,100,0.99295776213341969
+stressed,optimistic topology-B prior,sensor-emphasized fusion,120,0.98837273088068778
+stressed,optimistic topology-B prior,sensor-emphasized fusion,140,0.98222858186568385
+stressed,optimistic topology-B prior,sensor-emphasized fusion,160,0.97434141977133726
+stressed,optimistic topology-B prior,sensor-emphasized fusion,180,0.96454542405099164
+stressed,optimistic topology-B prior,sensor-emphasized fusion,200,0.95269575330164358
+stressed,optimistic topology-B prior,sensor-emphasized fusion,220,0.93867171908312186
+stressed,optimistic topology-B prior,sensor-emphasized fusion,240,0.92238003936851898
+stressed,optimistic topology-B prior,sensor-emphasized fusion,260,0.90375799548552815
+stressed,optimistic topology-B prior,sensor-emphasized fusion,280,0.88277632147130691
+stressed,optimistic topology-B prior,sensor-emphasized fusion,300,0.85944165869926559
+stressed,optimistic topology-B prior,sensor-emphasized fusion,320,0.83379841553243206
+stressed,optimistic topology-B prior,sensor-emphasized fusion,340,0.80592988403964216
+stressed,optimistic topology-B prior,sensor-emphasized fusion,360,0.77595848488126207
+stressed,optimistic topology-B prior,sensor-emphasized fusion,380,0.74404503794631183
+stressed,optimistic topology-B prior,sensor-emphasized fusion,400,0.71038699010302719
+stressed,optimistic topology-B prior,sensor-emphasized fusion,420,0.67521557172420943
+stressed,optimistic topology-B prior,sensor-emphasized fusion,440,0.63879189902522659
+stressed,optimistic topology-B prior,sensor-emphasized fusion,460,0.60140208767028025
+stressed,optimistic topology-B prior,sensor-emphasized fusion,480,0.56335149203683699
+stressed,optimistic topology-B prior,sensor-emphasized fusion,500,0.52495823112142481
+stressed,optimistic topology-B prior,sensor-emphasized fusion,520,0.48654620332688414
+stressed,optimistic topology-B prior,sensor-emphasized fusion,540,0.44843782538952903
+stressed,optimistic topology-B prior,sensor-emphasized fusion,560,0.41094675291776211
+stressed,optimistic topology-B prior,sensor-emphasized fusion,580,0.37437084942939358
+stressed,optimistic topology-B prior,sensor-emphasized fusion,600,0.3389856661764889
+stressed,optimistic topology-B prior,sensor-emphasized fusion,620,0.30503867615085722
+stressed,optimistic topology-B prior,sensor-emphasized fusion,640,0.2727444731916463
+stressed,optimistic topology-B prior,sensor-emphasized fusion,660,0.24228110279247456
+stressed,optimistic topology-B prior,sensor-emphasized fusion,680,0.21378763765101236
+stressed,optimistic topology-B prior,sensor-emphasized fusion,700,0.18736305155569571
+stressed,optimistic topology-B prior,sensor-emphasized fusion,720,0.16306638365626777
+stressed,optimistic topology-B prior,sensor-emphasized fusion,740,0.1409181254631621
+stressed,optimistic topology-B prior,sensor-emphasized fusion,760,0.12090270884171024
+stressed,optimistic topology-B prior,sensor-emphasized fusion,780,0.10297192810686845
+stressed,optimistic topology-B prior,sensor-emphasized fusion,800,0.087049095637231136
+stressed,optimistic topology-B prior,sensor-emphasized fusion,820,0.073033709833856875
+stressed,optimistic topology-B prior,sensor-emphasized fusion,840,0.060806407336130859
+stressed,optimistic topology-B prior,sensor-emphasized fusion,860,0.050233977723461457
+stressed,optimistic topology-B prior,sensor-emphasized fusion,880,0.041174237084574475
+stressed,optimistic topology-B prior,sensor-emphasized fusion,900,0.033480584664559061
+stressed,optimistic topology-B prior,sensor-emphasized fusion,920,0.027006101609246793
+stressed,optimistic topology-B prior,sensor-emphasized fusion,940,0.021607089656793487
+stressed,optimistic topology-B prior,sensor-emphasized fusion,960,0.017145987520501307
+stressed,optimistic topology-B prior,sensor-emphasized fusion,980,0.013493640955827304
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1000,0.01053093684376487
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1020,0.0081498403665983179
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1040,0.0062538964582757612
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1060,0.0047582717788901985
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1080,0.003589421669110469
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1100,0.0026844685382495979
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1120,0.001990374923515374
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1140,0.0014629872231411553
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1160,0.0010660161136970621
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1180,0.00077000812303579702
+stressed,optimistic topology-B prior,sensor-emphasized fusion,1200,0.00055135081708759879
+nominal,optimistic topology-B prior,model-emphasized fusion,0,1.0000000000000075
+nominal,optimistic topology-B prior,model-emphasized fusion,20,0.99992508445164296
+nominal,optimistic topology-B prior,model-emphasized fusion,40,0.99951204113137704
+nominal,optimistic topology-B prior,model-emphasized fusion,60,0.99852796135059907
+nominal,optimistic topology-B prior,model-emphasized fusion,80,0.99676551447158124
+nominal,optimistic topology-B prior,model-emphasized fusion,100,0.99403134489191214
+nominal,optimistic topology-B prior,model-emphasized fusion,120,0.99014327295805871
+nominal,optimistic topology-B prior,model-emphasized fusion,140,0.98493003681215929
+nominal,optimistic topology-B prior,model-emphasized fusion,160,0.97823222354703576
+nominal,optimistic topology-B prior,model-emphasized fusion,180,0.96990388155750251
+nominal,optimistic topology-B prior,model-emphasized fusion,200,0.95981455510614888
+nominal,optimistic topology-B prior,model-emphasized fusion,220,0.94785157248401408
+nominal,optimistic topology-B prior,model-emphasized fusion,240,0.93392245462603962
+nominal,optimistic topology-B prior,model-emphasized fusion,260,0.91795732483420478
+nominal,optimistic topology-B prior,model-emphasized fusion,280,0.89991120532726299
+nominal,optimistic topology-B prior,model-emphasized fusion,300,0.87976608863418149
+nominal,optimistic topology-B prior,model-emphasized fusion,320,0.85753267453602533
+nominal,optimistic topology-B prior,model-emphasized fusion,340,0.83325166820535279
+nominal,optimistic topology-B prior,model-emphasized fusion,360,0.806994543550274
+nominal,optimistic topology-B prior,model-emphasized fusion,380,0.77886368822022434
+nominal,optimistic topology-B prior,model-emphasized fusion,400,0.74899186355493419
+nominal,optimistic topology-B prior,model-emphasized fusion,420,0.71754093387323148
+nominal,optimistic topology-B prior,model-emphasized fusion,440,0.68469984446316734
+nominal,optimistic topology-B prior,model-emphasized fusion,460,0.65068185566671699
+nominal,optimistic topology-B prior,model-emphasized fusion,480,0.61572107045347879
+nominal,optimistic topology-B prior,model-emphasized fusion,500,0.58006832348768511
+nominal,optimistic topology-B prior,model-emphasized fusion,520,0.54398652935526204
+nominal,optimistic topology-B prior,model-emphasized fusion,540,0.50774561467964785
+nominal,optimistic topology-B prior,model-emphasized fusion,560,0.47161718166968869
+nominal,optimistic topology-B prior,model-emphasized fusion,580,0.43586906769432787
+nominal,optimistic topology-B prior,model-emphasized fusion,600,0.4007599754985019
+nominal,optimistic topology-B prior,model-emphasized fusion,620,0.36653435075359958
+nominal,optimistic topology-B prior,model-emphasized fusion,640,0.33341767731437766
+nominal,optimistic topology-B prior,model-emphasized fusion,660,0.3016123458824076
+nominal,optimistic topology-B prior,model-emphasized fusion,680,0.27129422933815156
+nominal,optimistic topology-B prior,model-emphasized fusion,700,0.24261006889821504
+nominal,optimistic topology-B prior,model-emphasized fusion,720,0.21567574103464304
+nominal,optimistic topology-B prior,model-emphasized fusion,740,0.19057543766659957
+nominal,optimistic topology-B prior,model-emphasized fusion,760,0.16736175363111933
+nominal,optimistic topology-B prior,model-emphasized fusion,780,0.14605663805787233
+nominal,optimistic topology-B prior,model-emphasized fusion,800,0.12665313212064414
+nominal,optimistic topology-B prior,model-emphasized fusion,820,0.10911778657882035
+nominal,optimistic topology-B prior,model-emphasized fusion,840,0.093393630039474484
+nominal,optimistic topology-B prior,model-emphasized fusion,860,0.079403543971318435
+nominal,optimistic topology-B prior,model-emphasized fusion,880,0.067053893653376287
+nominal,optimistic topology-B prior,model-emphasized fusion,900,0.056238265361431408
+nominal,optimistic topology-B prior,model-emphasized fusion,920,0.046841168583037267
+nominal,optimistic topology-B prior,model-emphasized fusion,940,0.038741576862125246
+nominal,optimistic topology-B prior,model-emphasized fusion,960,0.031816200623614156
+nominal,optimistic topology-B prior,model-emphasized fusion,980,0.025942408423109384
+nominal,optimistic topology-B prior,model-emphasized fusion,1000,0.021000737837231189
+nominal,optimistic topology-B prior,model-emphasized fusion,1020,0.016876962042187239
+nominal,optimistic topology-B prior,model-emphasized fusion,1040,0.013463701576751858
+nominal,optimistic topology-B prior,model-emphasized fusion,1060,0.01066159166402215
+nominal,optimistic topology-B prior,model-emphasized fusion,1080,0.0083800329035043659
+nominal,optimistic topology-B prior,model-emphasized fusion,1100,0.0065375666121262254
+nominal,optimistic topology-B prior,model-emphasized fusion,1120,0.0050619253960025616
+nominal,optimistic topology-B prior,model-emphasized fusion,1140,0.0038898147833370355
+nominal,optimistic topology-B prior,model-emphasized fusion,1160,0.0029664833014192435
+nominal,optimistic topology-B prior,model-emphasized fusion,1180,0.002245136780086871
+nominal,optimistic topology-B prior,model-emphasized fusion,1200,0.0016862485666927233
+stressed,optimistic topology-B prior,model-emphasized fusion,0,1.0000000000000075
+stressed,optimistic topology-B prior,model-emphasized fusion,20,0.99991241525415364
+stressed,optimistic topology-B prior,model-emphasized fusion,40,0.99942972746656855
+stressed,optimistic topology-B prior,model-emphasized fusion,60,0.99828000749585721
+stressed,optimistic topology-B prior,model-emphasized fusion,80,0.99622139307779889
+stressed,optimistic topology-B prior,model-emphasized fusion,100,0.99302877846853654
+stressed,optimistic topology-B prior,model-emphasized fusion,120,0.98849087689781778
+stressed,optimistic topology-B prior,model-emphasized fusion,140,0.98241030923523687
+stressed,optimistic topology-B prior,model-emphasized fusion,160,0.97460512209327743
+stressed,optimistic topology-B prior,model-emphasized fusion,180,0.96491112259924938
+stressed,optimistic topology-B prior,model-emphasized fusion,200,0.95318470463755334
+stressed,optimistic topology-B prior,model-emphasized fusion,220,0.93930594318348515
+stressed,optimistic topology-B prior,model-emphasized fusion,240,0.92318177153480019
+stressed,optimistic topology-B prior,model-emphasized fusion,260,0.90474907012279582
+stressed,optimistic topology-B prior,model-emphasized fusion,280,0.88397750076496162
+stressed,optimistic topology-B prior,model-emphasized fusion,300,0.86087192408114765
+stressed,optimistic topology-B prior,model-emphasized fusion,320,0.83547424434951201
+stressed,optimistic topology-B prior,model-emphasized fusion,340,0.80786453770918965
+stressed,optimistic topology-B prior,model-emphasized fusion,360,0.77816133770947271
+stressed,optimistic topology-B prior,model-emphasized fusion,380,0.74652097738868339
+stressed,optimistic topology-B prior,model-emphasized fusion,400,0.71313591928255138
+stressed,optimistic topology-B prior,model-emphasized fusion,420,0.67823204329910747
+stressed,optimistic topology-B prior,model-emphasized fusion,440,0.64206490591558008
+stressed,optimistic topology-B prior,model-emphasized fusion,460,0.60491503073918651
+stressed,optimistic topology-B prior,model-emphasized fusion,480,0.56708233774486227
+stressed,optimistic topology-B prior,model-emphasized fusion,500,0.5288798637412806
+stressed,optimistic topology-B prior,model-emphasized fusion,520,0.49062696696058083
+stressed,optimistic topology-B prior,model-emphasized fusion,540,0.45264224132355696
+stressed,optimistic topology-B prior,model-emphasized fusion,560,0.41523638840759869
+stressed,optimistic topology-B prior,model-emphasized fusion,580,0.37870530547311665
+stressed,optimistic topology-B prior,model-emphasized fusion,600,0.34332364484336247
+stressed,optimistic topology-B prior,model-emphasized fusion,620,0.30933908311606678
+stressed,optimistic topology-B prior,model-emphasized fusion,640,0.27696750870286724
+stressed,optimistic topology-B prior,model-emphasized fusion,660,0.24638929459181366
+stressed,optimistic topology-B prior,model-emphasized fusion,680,0.21774677242965099
+stressed,optimistic topology-B prior,model-emphasized fusion,700,0.19114296714904569
+stressed,optimistic topology-B prior,model-emphasized fusion,720,0.16664159201500856
+stressed,optimistic topology-B prior,model-emphasized fusion,740,0.14426824590924725
+stressed,optimistic topology-B prior,model-emphasized fusion,760,0.12401270156415248
+stressed,optimistic topology-B prior,model-emphasized fusion,780,0.10583212853024249
+stressed,optimistic topology-B prior,model-emphasized fusion,800,0.089655060467237299
+stressed,optimistic topology-B prior,model-emphasized fusion,820,0.075385894573657131
+stressed,optimistic topology-B prior,model-emphasized fusion,840,0.062909702319881869
+stressed,optimistic topology-B prior,model-emphasized fusion,860,0.05209713483817998
+stressed,optimistic topology-B prior,model-emphasized fusion,880,0.042809222145976496
+stressed,optimistic topology-B prior,model-emphasized fusion,900,0.034901890869298215
+stressed,optimistic topology-B prior,model-emphasized fusion,920,0.028230057779504474
+stressed,optimistic topology-B prior,model-emphasized fusion,940,0.022651193450105068
+stressed,optimistic topology-B prior,model-emphasized fusion,960,0.018028288835043746
+stressed,optimistic topology-B prior,model-emphasized fusion,980,0.014232194918006563
+stressed,optimistic topology-B prior,model-emphasized fusion,1000,0.011143339531620054
+stressed,optimistic topology-B prior,model-emphasized fusion,1020,0.0086528542766408229
+stressed,optimistic topology-B prior,model-emphasized fusion,1040,0.0066631670718184108
+stressed,optimistic topology-B prior,model-emphasized fusion,1060,0.0050881317376342012
+stressed,optimistic topology-B prior,model-emphasized fusion,1080,0.0038527752307877731
+stressed,optimistic topology-B prior,model-emphasized fusion,1100,0.0028927462438971823
+stressed,optimistic topology-B prior,model-emphasized fusion,1120,0.0021535467611150435
+stressed,optimistic topology-B prior,model-emphasized fusion,1140,0.0015896219283407335
+stressed,optimistic topology-B prior,model-emphasized fusion,1160,0.0011633744577856349
+stressed,optimistic topology-B prior,model-emphasized fusion,1180,0.00084415891603510705
+stressed,optimistic topology-B prior,model-emphasized fusion,1200,0.00060729970139088748
+nominal,central topology-B prior,balanced full fusion,0,0.99999999999999967
+nominal,central topology-B prior,balanced full fusion,20,0.99992471206185662
+nominal,central topology-B prior,balanced full fusion,40,0.99950857314648878
+nominal,central topology-B prior,balanced full fusion,60,0.99851518313465226
+nominal,central topology-B prior,balanced full fusion,80,0.99673324219469994
+nominal,central topology-B prior,balanced full fusion,100,0.99396509696696111
+nominal,central topology-B prior,balanced full fusion,120,0.9900240701693156
+nominal,central topology-B prior,balanced full fusion,140,0.98473433858102188
+nominal,central topology-B prior,balanced full fusion,160,0.97793201391511819
+nominal,central topology-B prior,balanced full fusion,180,0.96946691888073655
+nominal,central topology-B prior,balanced full fusion,200,0.95920479696686345
+nominal,central topology-B prior,balanced full fusion,220,0.94702978279870376
+nominal,central topology-B prior,balanced full fusion,240,0.93284699375363811
+nominal,central topology-B prior,balanced full fusion,260,0.9165851159816335
+nominal,central topology-B prior,balanced full fusion,280,0.89819886204480803
+nominal,central topology-B prior,balanced full fusion,300,0.87767117910005388
+nominal,central topology-B prior,balanced full fusion,320,0.85501508913768487
+nominal,central topology-B prior,balanced full fusion,340,0.83027504819346454
+nominal,central topology-B prior,balanced full fusion,360,0.80352772087604285
+nominal,central topology-B prior,balanced full fusion,380,0.77488208068698061
+nominal,central topology-B prior,balanced full fusion,400,0.74447876570708105
+nominal,central topology-B prior,balanced full fusion,420,0.71248864311800131
+nominal,central topology-B prior,balanced full fusion,440,0.67911056415202187
+nominal,central topology-B prior,balanced full fusion,460,0.64456832245745932
+nominal,central topology-B prior,balanced full fusion,480,0.60910686222402566
+nominal,central topology-B prior,balanced full fusion,500,0.57298781613336447
+nominal,central topology-B prior,balanced full fusion,520,0.53648448548799488
+nominal,central topology-B prior,balanced full fusion,540,0.49987640384432852
+nominal,central topology-B prior,balanced full fusion,560,0.46344364929211901
+nominal,central topology-B prior,balanced full fusion,580,0.42746108752989875
+nominal,central topology-B prior,balanced full fusion,600,0.39219273674891569
+nominal,central topology-B prior,balanced full fusion,620,0.35788644516657403
+nominal,central topology-B prior,balanced full fusion,640,0.32476906249040061
+nominal,central topology-B prior,balanced full fusion,660,0.29304226788722237
+nominal,central topology-B prior,balanced full fusion,680,0.26287919002618826
+nominal,central topology-B prior,balanced full fusion,700,0.23442192087345703
+nominal,central topology-B prior,balanced full fusion,720,0.2077799860354424
+nominal,central topology-B prior,balanced full fusion,740,0.18302979282256218
+nominal,central topology-B prior,balanced full fusion,760,0.1602150352704286
+nominal,central topology-B prior,balanced full fusion,780,0.13934799555253796
+nominal,central topology-B prior,balanced full fusion,800,0.12041164581565733
+nominal,central topology-B prior,balanced full fusion,820,0.10336242539128629
+nominal,central topology-B prior,balanced full fusion,840,0.088133547029896522
+nominal,central topology-B prior,balanced full fusion,860,0.074638673140010756
+nominal,central topology-B prior,balanced full fusion,880,0.062775799244778913
+nominal,central topology-B prior,balanced full fusion,900,0.052431186638399213
+nominal,central topology-B prior,balanced full fusion,920,0.043483198628744058
+nominal,central topology-B prior,balanced full fusion,940,0.035805913440188214
+nominal,central topology-B prior,balanced full fusion,960,0.029272410159127533
+nominal,central topology-B prior,balanced full fusion,980,0.023757650209675869
+nominal,central topology-B prior,balanced full fusion,1000,0.019140903914512959
+nominal,central topology-B prior,balanced full fusion,1020,0.015307698021366027
+nominal,central topology-B prior,balanced full fusion,1040,0.012151284198907302
+nominal,central topology-B prior,balanced full fusion,1060,0.0095736492930905311
+nominal,central topology-B prior,balanced full fusion,1080,0.0074861048237752003
+nominal,central topology-B prior,balanced full fusion,1100,0.0058095054097456605
+nominal,central topology-B prior,balanced full fusion,1120,0.0044741535115774122
+nominal,central topology-B prior,balanced full fusion,1140,0.0034194513550184643
+nominal,central topology-B prior,balanced full fusion,1160,0.0025933606581186189
+nominal,central topology-B prior,balanced full fusion,1180,0.0019517275078617231
+nominal,central topology-B prior,balanced full fusion,1200,0.0014575241725086369
+stressed,central topology-B prior,balanced full fusion,0,0.99999999999999967
+stressed,central topology-B prior,balanced full fusion,20,0.99991198080921007
+stressed,central topology-B prior,balanced full fusion,40,0.9994256639776502
+stressed,central topology-B prior,balanced full fusion,60,0.99826499116716627
+stressed,central topology-B prior,balanced full fusion,80,0.99618338550246099
+stressed,central topology-B prior,balanced full fusion,100,0.99295063150033713
+stressed,central topology-B prior,balanced full fusion,120,0.98835010837783266
+stressed,central topology-B prior,balanced full fusion,140,0.9821790629288002
+stressed,central topology-B prior,balanced full fusion,160,0.97425033164696062
+stressed,central topology-B prior,balanced full fusion,180,0.96439489846044368
+stressed,central topology-B prior,balanced full fusion,200,0.95246495802808528
+stressed,central topology-B prior,balanced full fusion,220,0.93833725343953722
+stressed,central topology-B prior,balanced full fusion,240,0.92191649298772038
+stressed,central topology-B prior,balanced full fusion,260,0.9031386627244492
+stressed,central topology-B prior,balanced full fusion,280,0.8819740554781339
+stressed,central topology-B prior,balanced full fusion,300,0.85842984041556458
+stressed,central topology-B prior,balanced full fusion,320,0.83255200421733422
+stressed,central topology-B prior,balanced full fusion,340,0.80442650798286852
+stressed,central topology-B prior,balanced full fusion,360,0.77417952451215033
+stressed,central topology-B prior,balanced full fusion,380,0.74197664921321738
+stressed,central topology-B prior,balanced full fusion,400,0.70802101437437903
+stressed,central topology-B prior,balanced full fusion,420,0.67255027998723638
+stressed,central topology-B prior,balanced full fusion,440,0.63583252306756122
+stressed,central topology-B prior,balanced full fusion,460,0.59816109921475824
+stressed,central topology-B prior,balanced full fusion,480,0.55984860218006727
+stressed,central topology-B prior,balanced full fusion,500,0.52122009634346878
+stressed,central topology-B prior,balanced full fusion,520,0.48260583998131257
+stressed,central topology-B prior,balanced full fusion,540,0.44433375093434452
+stressed,central topology-B prior,balanced full fusion,560,0.40672188806521314
+stressed,central topology-B prior,balanced full fusion,580,0.37007122969796336
+stressed,central topology-B prior,balanced full fusion,600,0.33465902291531496
+stressed,central topology-B prior,balanced full fusion,620,0.3007329550437437
+stressed,central topology-B prior,balanced full fusion,640,0.26850636187243565
+stressed,central topology-B prior,balanced full fusion,660,0.23815463819221072
+stressed,central topology-B prior,balanced full fusion,680,0.20981295810425796
+stressed,central topology-B prior,balanced full fusion,700,0.18357534895243766
+stressed,central topology-B prior,balanced full fusion,720,0.15949509781296409
+stressed,central topology-B prior,balanced full fusion,740,0.13758640744879358
+stressed,central topology-B prior,balanced full fusion,760,0.1178271634492683
+stressed,central topology-B prior,balanced full fusion,780,0.10016262928046357
+stressed,central topology-B prior,balanced full fusion,800,0.08450985365728271
+stressed,central topology-B prior,balanced full fusion,820,0.070762556461647128
+stressed,central topology-B prior,balanced full fusion,840,0.058796255696643304
+stressed,central topology-B prior,balanced full fusion,860,0.048473407916391646
+stressed,central topology-B prior,balanced full fusion,880,0.039648356474036459
+stressed,central topology-B prior,balanced full fusion,900,0.032171913301229448
+stressed,central topology-B prior,balanced full fusion,920,0.025895437802039473
+stressed,central topology-B prior,balanced full fusion,940,0.020674317647480459
+stressed,central topology-B prior,balanced full fusion,960,0.016370797717908742
+stressed,central topology-B prior,balanced full fusion,980,0.012856142419547913
+stressed,central topology-B prior,balanced full fusion,1000,0.010012150884599157
+stressed,central topology-B prior,balanced full fusion,1020,0.0077320725825575295
+stressed,central topology-B prior,balanced full fusion,1040,0.0059209917430517438
+stressed,central topology-B prior,balanced full fusion,1060,0.00449576250009518
+stressed,central topology-B prior,balanced full fusion,1080,0.0033845831760986626
+stressed,central topology-B prior,balanced full fusion,1100,0.0025262984489875131
+stressed,central topology-B prior,balanced full fusion,1120,0.0018695134149625218
+stressed,central topology-B prior,balanced full fusion,1140,0.0013715950615567174
+stressed,central topology-B prior,balanced full fusion,1160,0.00099762571371738557
+stressed,central topology-B prior,balanced full fusion,1180,0.00071936083424620927
+stressed,central topology-B prior,balanced full fusion,1200,0.00051423120285900908
+nominal,central topology-B prior,skeptical text fusion,0,0.99999999999999734
+nominal,central topology-B prior,skeptical text fusion,20,0.99992463597043535
+nominal,central topology-B prior,skeptical text fusion,40,0.99950807071146264
+nominal,central topology-B prior,skeptical text fusion,60,0.99851365470961917
+nominal,central topology-B prior,skeptical text fusion,80,0.99672986513463069
+nominal,central topology-B prior,skeptical text fusion,100,0.9939588427361582
+nominal,central topology-B prior,skeptical text fusion,120,0.99001372074330862
+nominal,central topology-B prior,skeptical text fusion,140,0.98471850476945466
+nominal,central topology-B prior,skeptical text fusion,160,0.97790915690234437
+nominal,central topology-B prior,skeptical text fusion,180,0.96943537572467753
+nominal,central topology-B prior,skeptical text fusion,200,0.95916281045547702
+nominal,central topology-B prior,skeptical text fusion,220,0.94697553578879567
+nominal,central topology-B prior,skeptical text fusion,240,0.93277864785902997
+nominal,central topology-B prior,skeptical text fusion,260,0.91650085422159677
+nominal,central topology-B prior,skeptical text fusion,280,0.89809693480477948
+nominal,central topology-B prior,skeptical text fusion,300,0.87754995250127887
+nominal,central topology-B prior,skeptical text fusion,320,0.85487309466792571
+nominal,central topology-B prior,skeptical text fusion,340,0.83011103223049088
+nominal,central topology-B prior,skeptical text fusion,360,0.80334069255190921
+nominal,central topology-B prior,skeptical text fusion,380,0.77467135640861828
+nominal,central topology-B prior,skeptical text fusion,400,0.74424400858160189
+nominal,central topology-B prior,skeptical text fusion,420,0.7122298955403783
+nominal,central topology-B prior,skeptical text fusion,440,0.67882827190843276
+nominal,central topology-B prior,skeptical text fusion,460,0.64426334888385328
+nominal,central topology-B prior,skeptical text fusion,480,0.60878049123641609
+nominal,central topology-B prior,skeptical text fusion,500,0.57264174330798523
+nominal,central topology-B prior,skeptical text fusion,520,0.53612079680384106
+nominal,central topology-B prior,skeptical text fusion,540,0.4994975421895837
+nominal,central topology-B prior,skeptical text fusion,560,0.46305236935602673
+nominal,central topology-B prior,skeptical text fusion,580,0.42706040022570863
+nominal,central topology-B prior,skeptical text fusion,600,0.39178584481129047
+nominal,central topology-B prior,skeptical text fusion,620,0.35747667200762218
+nominal,central topology-B prior,skeptical text fusion,640,0.32435977675375588
+nominal,central topology-B prior,skeptical text fusion,660,0.29263680638429113
+nominal,central topology-B prior,skeptical text fusion,680,0.2624807818539529
+nominal,central topology-B prior,skeptical text fusion,700,0.23403361548828866
+nominal,central topology-B prior,skeptical text fusion,720,0.20740458789006619
+nominal,central topology-B prior,skeptical text fusion,740,0.18266980487138051
+nominal,central topology-B prior,skeptical text fusion,760,0.15987261322834548
+nominal,central topology-B prior,skeptical text fusion,780,0.13902491427941838
+nominal,central topology-B prior,skeptical text fusion,800,0.12010927862343582
+nominal,central topology-B prior,skeptical text fusion,820,0.10308173646919618
+nominal,central topology-B prior,skeptical text fusion,840,0.087875096591465127
+nominal,central topology-B prior,skeptical text fusion,860,0.074402634348782637
+nominal,central topology-B prior,skeptical text fusion,880,0.062561985504923825
+nominal,central topology-B prior,skeptical text fusion,900,0.05223908746617275
+nominal,central topology-B prior,skeptical text fusion,920,0.043312022067765632
+nominal,central topology-B prior,skeptical text fusion,940,0.03565463285542924
+nominal,central topology-B prior,skeptical text fusion,960,0.029139813240089085
+nominal,central topology-B prior,skeptical text fusion,980,0.023642388122867345
+nominal,central topology-B prior,skeptical text fusion,1000,0.019041538752420865
+nominal,central topology-B prior,skeptical text fusion,1020,0.015222746977798534
+nominal,central topology-B prior,skeptical text fusion,1040,0.012079259234094107
+nominal,central topology-B prior,skeptical text fusion,1060,0.0095130914104154841
+nominal,central topology-B prior,skeptical text fusion,1080,0.0074356124390021977
+nominal,central topology-B prior,skeptical text fusion,1100,0.0057677566314065501
+nominal,central topology-B prior,skeptical text fusion,1120,0.0044399224503886376
+nominal,central topology-B prior,skeptical text fusion,1140,0.0033916188283632273
+nominal,central topology-B prior,skeptical text fusion,1160,0.0025709198455774584
+nominal,central topology-B prior,skeptical text fusion,1180,0.0019337852433670376
+nominal,central topology-B prior,skeptical text fusion,1200,0.0014432986302210006
+stressed,central topology-B prior,skeptical text fusion,0,0.99999999999999734
+stressed,central topology-B prior,skeptical text fusion,20,0.99991189188273155
+stressed,central topology-B prior,skeptical text fusion,40,0.99942507710220119
+stressed,central topology-B prior,skeptical text fusion,60,0.9982632066495315
+stressed,central topology-B prior,skeptical text fusion,80,0.99617944450974905
+stressed,central topology-B prior,skeptical text fusion,100,0.99294333724473471
+stressed,central topology-B prior,skeptical text fusion,120,0.98833804711030082
+stressed,central topology-B prior,skeptical text fusion,140,0.98216062789552427
+stressed,central topology-B prior,skeptical text fusion,160,0.97422375156692209
+stressed,central topology-B prior,skeptical text fusion,180,0.96435827138335872
+stressed,central topology-B prior,skeptical text fusion,200,0.95241629097416591
+stressed,central topology-B prior,skeptical text fusion,220,0.93827450783316735
+stressed,central topology-B prior,skeptical text fusion,240,0.921837635521778
+stressed,central topology-B prior,skeptical text fusion,260,0.90304172091513479
+stressed,central topology-B prior,skeptical text fusion,280,0.88185717679342901
+stressed,central topology-B prior,skeptical text fusion,300,0.85829135349676144
+stressed,central topology-B prior,skeptical text fusion,320,0.83239048037877894
+stressed,central topology-B prior,skeptical text fusion,340,0.80424082089314564
+stressed,central topology-B prior,skeptical text fusion,360,0.77396890575184585
+stressed,central topology-B prior,skeptical text fusion,380,0.74174073729408829
+stressed,central topology-B prior,skeptical text fusion,400,0.70775989481142965
+stressed,central topology-B prior,skeptical text fusion,420,0.67226451415387467
+stressed,central topology-B prior,skeptical text fusion,440,0.63552316384316243
+stressed,central topology-B prior,skeptical text fusion,460,0.59782969185231849
+stressed,central topology-B prior,skeptical text fusion,480,0.55949716936903326
+stressed,central topology-B prior,skeptical text fusion,500,0.52085110709720395
+stressed,central topology-B prior,skeptical text fusion,520,0.48222216270920781
+stressed,central topology-B prior,skeptical text fusion,540,0.4439385918248846
+stressed,central topology-B prior,skeptical text fusion,560,0.40631871666161401
+stressed,central topology-B prior,skeptical text fusion,580,0.36966369424284329
+stressed,central topology-B prior,skeptical text fusion,600,0.3342508586263141
+stressed,central topology-B prior,skeptical text fusion,620,0.3003278889133873
+stressed,central topology-B prior,skeptical text fusion,640,0.2681080178282525
+stressed,central topology-B prior,skeptical text fusion,660,0.23776644648341963
+stressed,central topology-B prior,skeptical text fusion,680,0.20943807259192521
+stressed,central topology-B prior,skeptical text fusion,700,0.18321657557838886
+stressed,central topology-B prior,skeptical text fusion,720,0.15915483693375354
+stressed,central topology-B prior,skeptical text fusion,740,0.1372666119829401
+stressed,central topology-B prior,skeptical text fusion,760,0.11752931394913962
+stressed,central topology-B prior,skeptical text fusion,780,0.099887726161594276
+stressed,central topology-B prior,skeptical text fusion,800,0.084258425957279448
+stressed,central topology-B prior,skeptical text fusion,820,0.070534685714771547
+stressed,central topology-B prior,skeptical text fusion,840,0.058591612848040861
+stressed,central topology-B prior,skeptical text fusion,860,0.048291300699384712
+stressed,central topology-B prior,skeptical text fusion,880,0.039487784358645701
+stressed,central topology-B prior,skeptical text fusion,900,0.032031627000157707
+stressed,central topology-B prior,skeptical text fusion,920,0.025774000384683322
+stressed,central topology-B prior,skeptical text fusion,940,0.020570164542488854
+stressed,central topology-B prior,skeptical text fusion,960,0.016282293248944445
+stressed,central topology-B prior,skeptical text fusion,980,0.012781630978777627
+stressed,central topology-B prior,skeptical text fusion,1000,0.0099500013622917972
+stressed,central topology-B prior,skeptical text fusion,1020,0.0076807151980862187
+stressed,central topology-B prior,skeptical text fusion,1040,0.0058789469256409618
+stressed,central topology-B prior,skeptical text fusion,1060,0.0044616619166560918
+stressed,central topology-B prior,skeptical text fusion,1080,0.0033571833765966281
+stressed,central topology-B prior,skeptical text fusion,1100,0.0025044878841397307
+stressed,central topology-B prior,skeptical text fusion,1120,0.0018523137725358367
+stressed,central topology-B prior,skeptical text fusion,1140,0.0013581579696575446
+stressed,central topology-B prior,skeptical text fusion,1160,0.0009872258818353595
+stressed,central topology-B prior,skeptical text fusion,1180,0.00071138665921887528
+stressed,central topology-B prior,skeptical text fusion,1200,0.00050817377340919921
+nominal,central topology-B prior,sensor-emphasized fusion,0,1.0000000000000011
+nominal,central topology-B prior,sensor-emphasized fusion,20,0.99992448524293309
+nominal,central topology-B prior,sensor-emphasized fusion,40,0.99950708106963693
+nominal,central topology-B prior,sensor-emphasized fusion,60,0.99851064537632739
+nominal,central topology-B prior,sensor-emphasized fusion,80,0.99672320324836128
+nominal,central topology-B prior,sensor-emphasized fusion,100,0.99394646592708913
+nominal,central topology-B prior,sensor-emphasized fusion,120,0.98999315969467738
+nominal,central topology-B prior,sensor-emphasized fusion,140,0.98468691146689713
+nominal,central topology-B prior,sensor-emphasized fusion,160,0.97786334156828381
+nominal,central topology-B prior,sensor-emphasized fusion,180,0.96937185428415729
+nominal,central topology-B prior,sensor-emphasized fusion,200,0.95907786363475467
+nominal,central topology-B prior,sensor-emphasized fusion,220,0.94686528030590023
+nominal,central topology-B prior,sensor-emphasized fusion,240,0.93263911952918888
+nominal,central topology-B prior,sensor-emphasized fusion,260,0.91632810213979565
+nominal,central topology-B prior,sensor-emphasized fusion,280,0.89788712508463764
+nominal,central topology-B prior,sensor-emphasized fusion,300,0.87729947936123831
+nominal,central topology-B prior,sensor-emphasized fusion,320,0.85457869599236447
+nominal,central topology-B prior,sensor-emphasized fusion,340,0.82976990612949386
+nominal,central topology-B prior,sensor-emphasized fusion,360,0.80295061094132658
+nominal,central topology-B prior,sensor-emphasized fusion,380,0.77423077127144813
+nominal,central topology-B prior,sensor-emphasized fusion,400,0.74375214639196563
+nominal,central topology-B prior,sensor-emphasized fusion,420,0.71168683536626831
+nominal,central topology-B prior,sensor-emphasized fusion,440,0.67823500298043882
+nominal,central topology-B prior,sensor-emphasized fusion,460,0.64362180393634871
+nominal,central topology-B prior,sensor-emphasized fusion,480,0.60809355268970378
+nominal,central topology-B prior,sensor-emphasized fusion,500,0.57191322034267789
+nominal,central topology-B prior,sensor-emphasized fusion,520,0.53535537254459709
+nominal,central topology-B prior,sensor-emphasized fusion,540,0.49870069150718899
+nominal,central topology-B prior,sensor-emphasized fusion,560,0.46223024914858246
+nominal,central topology-B prior,sensor-emphasized fusion,580,0.42621971537113873
+nominal,central topology-B prior,sensor-emphasized fusion,600,0.39093369421358282
+nominal,central topology-B prior,sensor-emphasized fusion,620,0.35662038020677977
+nominal,central topology-B prior,sensor-emphasized fusion,640,0.32350671736251807
+nominal,central topology-B prior,sensor-emphasized fusion,660,0.29179422409440192
+nominal,central topology-B prior,sensor-emphasized fusion,680,0.26165561988279074
+nominal,central topology-B prior,sensor-emphasized fusion,700,0.23323235509731652
+nominal,central topology-B prior,sensor-emphasized fusion,720,0.20663310600962803
+nominal,central topology-B prior,sensor-emphasized fusion,740,0.18193325494678747
+nominal,central topology-B prior,sensor-emphasized fusion,760,0.15917533321785565
+nominal,central topology-B prior,sensor-emphasized fusion,780,0.13837036436158273
+nominal,central topology-B prior,sensor-emphasized fusion,800,0.11950000969851141
+nominal,central topology-B prior,sensor-emphasized fusion,820,0.10251938906070103
+nominal,central topology-B prior,sensor-emphasized fusion,840,0.087360428361816816
+nominal,central topology-B prior,sensor-emphasized fusion,860,0.073935573219972295
+nominal,central topology-B prior,sensor-emphasized fusion,880,0.062141704388836101
+nominal,central topology-B prior,sensor-emphasized fusion,900,0.051864095906578006
+nominal,central topology-B prior,sensor-emphasized fusion,920,0.042980269701756099
+nominal,central topology-B prior,sensor-emphasized fusion,940,0.035363619517236787
+nominal,central topology-B prior,sensor-emphasized fusion,960,0.028886700734075357
+nominal,central topology-B prior,sensor-emphasized fusion,980,0.023424109145750119
+nominal,central topology-B prior,sensor-emphasized fusion,1000,0.018854899094356163
+nominal,central topology-B prior,sensor-emphasized fusion,1020,0.015064517916173614
+nominal,central topology-B prior,sensor-emphasized fusion,1040,0.011946257888524294
+nominal,central topology-B prior,sensor-emphasized fusion,1060,0.0094022476907544474
+nominal,central topology-B prior,sensor-emphasized fusion,1080,0.0073440220355860692
+nominal,central topology-B prior,sensor-emphasized fusion,1100,0.0056927202241681338
+nominal,central topology-B prior,sensor-emphasized fusion,1120,0.0043789719192988364
+nominal,central topology-B prior,sensor-emphasized fusion,1140,0.0033425317134770012
+nominal,central topology-B prior,sensor-emphasized fusion,1160,0.0025317236250097033
+nominal,central topology-B prior,sensor-emphasized fusion,1180,0.0019027531770817801
+nominal,central topology-B prior,sensor-emphasized fusion,1200,0.0014189389706932927
+stressed,central topology-B prior,sensor-emphasized fusion,0,1.0000000000000011
+stressed,central topology-B prior,sensor-emphasized fusion,20,0.9999117155304732
+stressed,central topology-B prior,sensor-emphasized fusion,40,0.99942391897390326
+stressed,central topology-B prior,sensor-emphasized fusion,60,0.99825968395334652
+stressed,central topology-B prior,sensor-emphasized fusion,80,0.99617164436867567
+stressed,central topology-B prior,sensor-emphasized fusion,100,0.99292884435252449
+stressed,central topology-B prior,sensor-emphasized fusion,120,0.98831397306179136
+stressed,central topology-B prior,sensor-emphasized fusion,140,0.98212364914054984
+stressed,central topology-B prior,sensor-emphasized fusion,160,0.97417015968302856
+stressed,central topology-B prior,sensor-emphasized fusion,180,0.96428403789199502
+stressed,central topology-B prior,sensor-emphasized fusion,200,0.95231714789417166
+stressed,central topology-B prior,sensor-emphasized fusion,220,0.9381460442236309
+stressed,central topology-B prior,sensor-emphasized fusion,240,0.92167540930723946
+stressed,central topology-B prior,sensor-emphasized fusion,260,0.90284138428836203
+stressed,central topology-B prior,sensor-emphasized fusion,280,0.88161461247124906
+stressed,central topology-B prior,sensor-emphasized fusion,300,0.85800281810536039
+stressed,central topology-B prior,sensor-emphasized fusion,320,0.83205275032137105
+stressed,central topology-B prior,sensor-emphasized fusion,340,0.80385133527031238
+stressed,central topology-B prior,sensor-emphasized fusion,360,0.77352590033224577
+stressed,central topology-B prior,sensor-emphasized fusion,380,0.74124336323411311
+stressed,central topology-B prior,sensor-emphasized fusion,400,0.70720831585389066
+stressed,central topology-B prior,sensor-emphasized fusion,420,0.67165997643589037
+stressed,central topology-B prior,sensor-emphasized fusion,440,0.63486803322965191
+stressed,central topology-B prior,sensor-emphasized fusion,460,0.59712745487482677
+stressed,central topology-B prior,sensor-emphasized fusion,480,0.55875239534936039
+stressed,central topology-B prior,sensor-emphasized fusion,500,0.52006937080434201
+stressed,central topology-B prior,sensor-emphasized fusion,520,0.48140992883879569
+stressed,central topology-B prior,sensor-emphasized fusion,540,0.44310306458536725
+stressed,central topology-B prior,sensor-emphasized fusion,560,0.40546765966871845
+stressed,central topology-B prior,sensor-emphasized fusion,580,0.36880522762825063
+stressed,central topology-B prior,sensor-emphasized fusion,600,0.33339324163013229
+stressed,central topology-B prior,sensor-emphasized fusion,620,0.29947929714518967
+stressed,central topology-B prior,sensor-emphasized fusion,640,0.2672763247695274
+stressed,central topology-B prior,sensor-emphasized fusion,660,0.23695901862551627
+stressed,central topology-B prior,sensor-emphasized fusion,680,0.20866158686039057
+stressed,central topology-B prior,sensor-emphasized fusion,700,0.18247686643431946
+stressed,central topology-B prior,sensor-emphasized fusion,720,0.15845677885267107
+stressed,central topology-B prior,sensor-emphasized fusion,740,0.13661404101317365
+stressed,central topology-B prior,sensor-emphasized fusion,760,0.11692498988872187
+stressed,central topology-B prior,sensor-emphasized fusion,780,0.099333334719460709
+stressed,central topology-B prior,sensor-emphasized fusion,800,0.083754618231919598
+stressed,central topology-B prior,sensor-emphasized fusion,820,0.070081150565305075
+stressed,central topology-B prior,sensor-emphasized fusion,840,0.05818717635543736
+stressed,central topology-B prior,sensor-emphasized fusion,860,0.047934045989870298
+stressed,central topology-B prior,sensor-emphasized fusion,880,0.039175184617741492
+stressed,central topology-B prior,sensor-emphasized fusion,900,0.031760684535291794
+stressed,central topology-B prior,sensor-emphasized fusion,920,0.025541385051246347
+stressed,central topology-B prior,sensor-emphasized fusion,940,0.020372345658105414
+stressed,central topology-B prior,sensor-emphasized fusion,960,0.016115660189018551
+stressed,central topology-B prior,sensor-emphasized fusion,980,0.012642598868840752
+stressed,central topology-B prior,sensor-emphasized fusion,1000,0.0098350995556260798
+stressed,central topology-B prior,sensor-emphasized fusion,1020,0.0075866574561918258
+stressed,central topology-B prior,sensor-emphasized fusion,1040,0.0058026833264296076
+stressed,central topology-B prior,sensor-emphasized fusion,1060,0.0044004134436660524
+stressed,central topology-B prior,sensor-emphasized fusion,1080,0.0033084608576052811
+stressed,central topology-B prior,sensor-emphasized fusion,1100,0.0024660974369382057
+stressed,central topology-B prior,sensor-emphasized fusion,1120,0.001822351186455367
+stressed,central topology-B prior,sensor-emphasized fusion,1140,0.0013349945262897036
+stressed,central topology-B prior,sensor-emphasized fusion,1160,0.00096948803057277187
+stressed,central topology-B prior,sensor-emphasized fusion,1180,0.00069793175186256629
+stressed,central topology-B prior,sensor-emphasized fusion,1200,0.00049806376758153683
+nominal,central topology-B prior,model-emphasized fusion,0,1.0000000000000018
+nominal,central topology-B prior,model-emphasized fusion,20,0.99992515237034563
+nominal,central topology-B prior,model-emphasized fusion,40,0.99951151872357347
+nominal,central topology-B prior,model-emphasized fusion,60,0.99852425320504345
+nominal,central topology-B prior,model-emphasized fusion,80,0.99675351500531773
+nominal,central topology-B prior,model-emphasized fusion,100,0.99400305774361919
+nominal,central topology-B prior,model-emphasized fusion,120,0.99008755348933974
+nominal,central topology-B prior,model-emphasized fusion,140,0.98483244898006428
+nominal,central topology-B prior,model-emphasized fusion,160,0.97807501579534062
+nominal,central topology-B prior,model-emphasized fusion,180,0.96966608997655979
+nominal,central topology-B prior,model-emphasized fusion,200,0.95947224181190716
+nominal,central topology-B prior,model-emphasized fusion,220,0.94737820462547651
+nominal,central topology-B prior,model-emphasized fusion,240,0.93328942530000514
+nominal,central topology-B prior,model-emphasized fusion,260,0.91713461184410572
+nominal,central topology-B prior,model-emphasized fusion,280,0.89886815748984505
+nominal,central topology-B prior,model-emphasized fusion,300,0.8784723225543446
+nominal,central topology-B prior,model-emphasized fusion,320,0.85595905782509418
+nominal,central topology-B prior,model-emphasized fusion,340,0.83137135844554155
+nominal,central topology-B prior,model-emphasized fusion,360,0.80478404637691647
+nominal,central topology-B prior,model-emphasized fusion,380,0.77630389317976567
+nominal,central topology-B prior,model-emphasized fusion,400,0.74606901335542397
+nominal,central topology-B prior,model-emphasized fusion,420,0.71424748166838437
+nominal,central topology-B prior,model-emphasized fusion,440,0.68103515519888513
+nominal,central topology-B prior,model-emphasized fusion,460,0.64665271143563241
+nominal,central topology-B prior,model-emphasized fusion,480,0.61134194625343741
+nominal,central topology-B prior,model-emphasized fusion,500,0.57536140858960494
+nominal,central topology-B prior,model-emphasized fusion,520,0.53898148029748261
+nominal,central topology-B prior,model-emphasized fusion,540,0.50247903818617123
+nominal,central topology-B prior,model-emphasized fusion,560,0.46613185886062836
+nominal,central topology-B prior,model-emphasized fusion,580,0.43021294403227706
+nominal,central topology-B prior,model-emphasized fusion,600,0.39498495316007265
+nominal,central topology-B prior,model-emphasized fusion,620,0.36069493070765546
+nominal,central topology-B prior,model-emphasized fusion,640,0.32756950658571443
+nominal,central topology-B prior,model-emphasized fusion,660,0.29581073068302866
+nominal,central topology-B prior,model-emphasized fusion,680,0.26559267655775221
+nominal,central topology-B prior,model-emphasized fusion,700,0.23705891669863546
+nominal,central topology-B prior,model-emphasized fusion,720,0.21032093408460328
+nominal,central topology-B prior,model-emphasized fusion,740,0.18545749423123814
+nominal,central topology-B prior,model-emphasized fusion,760,0.16251496087190662
+nominal,central topology-B prior,model-emphasized fusion,780,0.14150849925931322
+nominal,central topology-B prior,model-emphasized fusion,800,0.12242407601516156
+nominal,central topology-B prior,model-emphasized fusion,820,0.10522113540846564
+nominal,central topology-B prior,model-emphasized fusion,840,0.089835810358679546
+nominal,central topology-B prior,model-emphasized fusion,860,0.076184513240182786
+nominal,central topology-B prior,model-emphasized fusion,880,0.064167747013927648
+nominal,central topology-B prior,model-emphasized fusion,900,0.053673981041179673
+nominal,central topology-B prior,model-emphasized fusion,920,0.044583447314322788
+nominal,central topology-B prior,model-emphasized fusion,940,0.036771730497943855
+nominal,central topology-B prior,model-emphasized fusion,960,0.030113047519978644
+nominal,central topology-B prior,model-emphasized fusion,980,0.024483137725230694
+nominal,central topology-B prior,model-emphasized fusion,1000,0.019761711014510734
+nominal,central topology-B prior,model-emphasized fusion,1020,0.015834427265741441
+nominal,central topology-B prior,model-emphasized fusion,1040,0.012594404217777364
+nominal,central topology-B prior,model-emphasized fusion,1060,0.009943271751023287
+nominal,central topology-B prior,model-emphasized fusion,1080,0.0077918073354007883
+nominal,central topology-B prior,model-emphasized fusion,1100,0.0060601999189599676
+nominal,central topology-B prior,model-emphasized fusion,1120,0.0046779976316263048
+nominal,central topology-B prior,model-emphasized fusion,1140,0.0035837986133632465
+nominal,central topology-B prior,model-emphasized fusion,1160,0.0027247445179760933
+nominal,central topology-B prior,model-emphasized fusion,1180,0.0020558734308285878
+nominal,central topology-B prior,model-emphasized fusion,1200,0.0015393837976020739
+stressed,central topology-B prior,model-emphasized fusion,0,1.0000000000000018
+stressed,central topology-B prior,model-emphasized fusion,20,0.99991249578480046
+stressed,central topology-B prior,model-emphasized fusion,40,0.999429110031269
+stressed,central topology-B prior,model-emphasized fusion,60,0.99827560637979584
+stressed,central topology-B prior,model-emphasized fusion,80,0.99620711959085584
+stressed,central topology-B prior,model-emphasized fusion,100,0.99299508160433225
+stressed,central topology-B prior,model-emphasized fusion,120,0.98842444275584207
+stressed,central topology-B prior,model-emphasized fusion,140,0.9822939126616822
+stressed,central topology-B prior,model-emphasized fusion,160,0.9744176392133439
+stressed,central topology-B prior,model-emphasized fusion,180,0.96462771618138454
+stressed,central topology-B prior,model-emphasized fusion,200,0.95277719246467207
+stressed,central topology-B prior,model-emphasized fusion,220,0.93874335478889803
+stressed,central topology-B prior,model-emphasized fusion,240,0.92243109163271741
+stressed,central topology-B prior,model-emphasized fusion,260,0.90377615838841741
+stressed,central topology-B prior,model-emphasized fusion,280,0.88274816784249976
+stressed,central topology-B prior,model-emphasized fusion,300,0.85935313342923325
+stressed,central topology-B prior,model-emphasized fusion,320,0.83363539946847698
+stressed,central topology-B prior,model-emphasized fusion,340,0.80567880519345436
+stressed,central topology-B prior,model-emphasized fusion,360,0.77560694922005469
+stressed,central topology-B prior,model-emphasized fusion,380,0.74358244880263724
+stressed,central topology-B prior,model-emphasized fusion,400,0.70980512361155113
+stressed,central topology-B prior,model-emphasized fusion,420,0.67450907597746768
+stressed,central topology-B prior,model-emphasized fusion,440,0.63795868700871305
+stressed,central topology-B prior,model-emphasized fusion,460,0.60044359850800288
+stressed,central topology-B prior,model-emphasized fusion,480,0.56227280149747505
+stressed,central topology-B prior,model-emphasized fusion,500,0.52376800037085303
+stressed,central topology-B prior,model-emphasized fusion,520,0.48525646407321416
+stressed,central topology-B prior,model-emphasized fusion,540,0.44706360923081645
+stressed,central topology-B prior,model-emphasized fusion,560,0.40950558216818811
+stressed,central topology-B prior,model-emphasized fusion,580,0.37288211524409642
+stressed,central topology-B prior,model-emphasized fusion,600,0.33746992674230103
+stressed,central topology-B prior,model-emphasized fusion,620,0.30351691249398205
+stressed,central topology-B prior,model-emphasized fusion,640,0.2712373423788817
+stressed,central topology-B prior,model-emphasized fusion,660,0.24080822778543651
+stressed,central topology-B prior,model-emphasized fusion,680,0.21236696986319964
+stressed,central topology-B prior,model-emphasized fusion,700,0.18601033654176444
+stressed,central topology-B prior,model-emphasized fusion,720,0.16179475281866257
+stressed,central topology-B prior,model-emphasized fusion,740,0.13973782783840544
+stressed,central topology-B prior,model-emphasized fusion,760,0.11982098766490608
+stressed,central topology-B prior,model-emphasized fusion,780,0.10199303770653595
+stressed,central topology-B prior,model-emphasized fusion,800,0.086174445987587639
+stressed,central topology-B prior,model-emphasized fusion,820,0.07226211937301498
+stressed,central topology-B prior,model-emphasized fusion,840,0.060134439861872897
+stressed,central topology-B prior,model-emphasized fusion,860,0.049656336519635441
+stressed,central topology-B prior,model-emphasized fusion,880,0.040684188921721209
+stressed,central topology-B prior,model-emphasized fusion,900,0.033070387779096072
+stressed,central topology-B prior,model-emphasized fusion,920,0.026667414862460052
+stressed,central topology-B prior,model-emphasized fusion,940,0.021331344366951482
+stressed,central topology-B prior,model-emphasized fusion,960,0.016924708455225146
+stressed,central topology-B prior,model-emphasized fusion,980,0.013318708175989088
+stressed,central topology-B prior,model-emphasized fusion,1000,0.010394785062573755
+stressed,central topology-B prior,model-emphasized fusion,1020,0.008045596871821695
+stressed,central topology-B prior,model-emphasized fusion,1040,0.006175462192954226
+stressed,central topology-B prior,model-emphasized fusion,1060,0.004700352752618802
+stressed,central topology-B prior,model-emphasized fusion,1080,0.0035475194529594402
+stressed,central topology-B prior,model-emphasized fusion,1100,0.0026548392488378075
+stressed,central topology-B prior,model-emphasized fusion,1120,0.0019699659613781261
+stressed,central topology-B prior,model-emphasized fusion,1140,0.0014493602752536873
+stressed,central topology-B prior,model-emphasized fusion,1160,0.0010572637540990414
+stressed,central topology-B prior,model-emphasized fusion,1180,0.00076466993731133602
+stressed,central topology-B prior,model-emphasized fusion,1200,0.00054833350156192949
+nominal,conservative topology-B prior,balanced full fusion,0,0.99999999999999001
+nominal,conservative topology-B prior,balanced full fusion,20,0.99992358778966883
+nominal,conservative topology-B prior,balanced full fusion,40,0.99950144895625193
+nominal,conservative topology-B prior,balanced full fusion,60,0.9984938795650804
+nominal,conservative topology-B prior,balanced full fusion,80,0.99668647199675942
+nominal,conservative topology-B prior,balanced full fusion,100,0.99387851977792252
+nominal,conservative topology-B prior,balanced full fusion,120,0.98988035729974366
+nominal,conservative topology-B prior,balanced full fusion,140,0.98451329522023556
+nominal,conservative topology-B prior,balanced full fusion,160,0.97761078383761868
+nominal,conservative topology-B prior,balanced full fusion,180,0.96902028738097967
+nominal,conservative topology-B prior,balanced full fusion,200,0.95860560154220786
+nominal,conservative topology-B prior,balanced full fusion,220,0.94624943554667573
+nominal,conservative topology-B prior,balanced full fusion,240,0.93185611377936683
+nominal,conservative topology-B prior,balanced full fusion,260,0.9153542641328003
+nominal,conservative topology-B prior,balanced full fusion,280,0.89669936407095685
+nominal,conservative topology-B prior,balanced full fusion,300,0.87587601708417495
+nominal,conservative topology-B prior,balanced full fusion,320,0.85289983507662159
+nominal,conservative topology-B prior,balanced full fusion,340,0.82781880827488563
+nominal,conservative topology-B prior,balanced full fusion,360,0.80071405470706802
+nominal,conservative topology-B prior,balanced full fusion,380,0.77169985686024223
+nominal,conservative topology-B prior,balanced full fusion,400,0.74092291399298948
+nominal,conservative topology-B prior,balanced full fusion,420,0.70856076452140582
+nominal,conservative topology-B prior,balanced full fusion,440,0.67481936323436476
+nominal,conservative topology-B prior,balanced full fusion,460,0.63992983173516493
+nominal,conservative topology-B prior,balanced full fusion,480,0.60414443598883594
+nominal,conservative topology-B prior,balanced full fusion,500,0.56773188041812117
+nominal,conservative topology-B prior,balanced full fusion,520,0.53097204168278478
+nominal,conservative topology-B prior,balanced full fusion,540,0.49415029507620845
+nominal,conservative topology-B prior,balanced full fusion,560,0.45755161043785592
+nominal,conservative topology-B prior,balanced full fusion,580,0.42145461089792602
+nominal,conservative topology-B prior,balanced full fusion,600,0.38612579530474955
+nominal,conservative topology-B prior,balanced full fusion,620,0.35181412300139053
+nominal,conservative topology-B prior,balanced full fusion,640,0.31874614747687469
+nominal,conservative topology-B prior,balanced full fusion,660,0.28712186372581555
+nominal,conservative topology-B prior,balanced full fusion,680,0.25711140395929738
+nominal,conservative topology-B prior,balanced full fusion,700,0.22885267926055039
+nominal,conservative topology-B prior,balanced full fusion,720,0.20245002299492199
+nominal,conservative topology-B prior,balanced full fusion,740,0.17797384772194297
+nominal,conservative topology-B prior,balanced full fusion,760,0.15546128362587996
+nominal,conservative topology-B prior,balanced full fusion,780,0.13491772564423701
+nominal,conservative topology-B prior,balanced full fusion,800,0.11631918085675613
+nominal,conservative topology-B prior,balanced full fusion,820,0.099615279216484109
+nominal,conservative topology-B prior,balanced full fusion,840,0.084732790730404919
+nominal,conservative topology-B prior,balanced full fusion,860,0.071579481469399811
+nominal,conservative topology-B prior,balanced full fusion,880,0.060048139384667694
+nominal,conservative topology-B prior,balanced full fusion,900,0.050020608275015935
+nominal,conservative topology-B prior,balanced full fusion,920,0.041371683276580737
+nominal,conservative topology-B prior,balanced full fusion,940,0.033972742390960042
+nominal,conservative topology-B prior,balanced full fusion,960,0.02769501400369204
+nominal,conservative topology-B prior,balanced full fusion,980,0.022412408126473722
+nominal,conservative topology-B prior,balanced full fusion,1000,0.01800386731629041
+nominal,conservative topology-B prior,balanced full fusion,1020,0.014355220154829531
+nominal,conservative topology-B prior,balanced full fusion,1040,0.011360544375488725
+nominal,conservative topology-B prior,balanced full fusion,1060,0.0089230671314447837
+nominal,conservative topology-B prior,balanced full fusion,1080,0.0069556458355276513
+nominal,conservative topology-B prior,balanced full fusion,1100,0.0053808841967669697
+nominal,conservative topology-B prior,balanced full fusion,1120,0.0041309446159312237
+nominal,conservative topology-B prior,balanced full fusion,1140,0.0031471203690285653
+nominal,conservative topology-B prior,balanced full fusion,1160,0.0023792296118977057
+nominal,conservative topology-B prior,balanced full fusion,1180,0.0017848889282207597
+nominal,conservative topology-B prior,balanced full fusion,1200,0.0013287177236041765
+stressed,conservative topology-B prior,balanced full fusion,0,0.99999999999999001
+stressed,conservative topology-B prior,balanced full fusion,20,0.99991066095349568
+stressed,conservative topology-B prior,balanced full fusion,40,0.9994172854979424
+stressed,conservative topology-B prior,balanced full fusion,60,0.99823989574644767
+stressed,conservative topology-B prior,balanced full fusion,80,0.99612821176079536
+stressed,conservative topology-B prior,balanced full fusion,100,0.99284837943256954
+stressed,conservative topology-B prior,balanced full fusion,120,0.98818023202632632
+stressed,conservative topology-B prior,balanced full fusion,140,0.98191764940134674
+stressed,conservative topology-B prior,balanced full fusion,160,0.97387039785350804
+stressed,conservative topology-B prior,balanced full fusion,180,0.96386682485296882
+stressed,conservative topology-B prior,balanced full fusion,200,0.95175706983736663
+stressed,conservative topology-B prior,balanced full fusion,220,0.93741655154858705
+stressed,conservative topology-B prior,balanced full fusion,240,0.92074952785543607
+stressed,conservative topology-B prior,balanced full fusion,260,0.9016925355862967
+stressed,conservative topology-B prior,balanced full fusion,280,0.88021752165731337
+stressed,conservative topology-B prior,balanced full fusion,300,0.8563344804343811
+stressed,conservative topology-B prior,balanced full fusion,320,0.83009342008523657
+stressed,conservative topology-B prior,balanced full fusion,340,0.8015854952038477
+stressed,conservative topology-B prior,balanced full fusion,360,0.77094316565179699
+stressed,conservative topology-B prior,balanced full fusion,380,0.73833927289170431
+stressed,conservative topology-B prior,balanced full fusion,400,0.70398496477717054
+stressed,conservative topology-B prior,balanced full fusion,420,0.66812644669923027
+stressed,conservative topology-B prior,balanced full fusion,440,0.63104058929054319
+stressed,conservative topology-B prior,balanced full fusion,460,0.59302947800419115
+stressed,conservative topology-B prior,balanced full fusion,480,0.55441404473069145
+stressed,conservative topology-B prior,balanced full fusion,500,0.51552697279123005
+stressed,conservative topology-B prior,balanced full fusion,520,0.47670511066608395
+stressed,conservative topology-B prior,balanced full fusion,540,0.43828166341925112
+stressed,conservative topology-B prior,balanced full fusion,560,0.40057845119713947
+stressed,conservative topology-B prior,balanced full fusion,580,0.36389852941763762
+stressed,conservative topology-B prior,balanced full fusion,600,0.32851945432618329
+stressed,conservative topology-B prior,balanced full fusion,620,0.29468745061330726
+stressed,conservative topology-B prior,balanced full fusion,640,0.26261269608550269
+stressed,conservative topology-B prior,balanced full fusion,660,0.23246588440360413
+stressed,conservative topology-B prior,balanced full fusion,680,0.2043761640528704
+stressed,conservative topology-B prior,balanced full fusion,700,0.1784304840846484
+stressed,conservative topology-B prior,balanced full fusion,720,0.15467430922897035
+stressed,conservative topology-B prior,balanced full fusion,740,0.13311360316800269
+stressed,conservative topology-B prior,balanced full fusion,760,0.11371792314434195
+stressed,conservative topology-B prior,balanced full fusion,780,0.096424424998413291
+stressed,conservative topology-B prior,balanced full fusion,800,0.08114254754582266
+stressed,conservative topology-B prior,balanced full fusion,820,0.067759130131251732
+stressed,conservative topology-B prior,balanced full fusion,840,0.056143717245658233
+stressed,conservative topology-B prior,balanced full fusion,860,0.046153818148621031
+stressed,conservative topology-B prior,balanced full fusion,880,0.037639915410498548
+stressed,conservative topology-B prior,balanced full fusion,900,0.030450051371480148
+stressed,conservative topology-B prior,balanced full fusion,920,0.024433862473508927
+stressed,conservative topology-B prior,balanced full fusion,940,0.019445974910298355
+stressed,conservative topology-B prior,balanced full fusion,960,0.015348717893909526
+stressed,conservative topology-B prior,balanced full fusion,980,0.01201415031379361
+stressed,conservative topology-B prior,balanced full fusion,1000,0.0093254305313589005
+stressed,conservative topology-B prior,balanced full fusion,1020,0.0071775860816766278
+stressed,conservative topology-B prior,balanced full fusion,1040,0.0054777594435523741
+stressed,conservative topology-B prior,balanced full fusion,1060,0.004145017768238223
+stressed,conservative topology-B prior,balanced full fusion,1080,0.0031098190779919239
+stressed,conservative topology-B prior,balanced full fusion,1100,0.0023132259433941778
+stressed,conservative topology-B prior,balanced full fusion,1120,0.0017059512824634533
+stressed,conservative topology-B prior,balanced full fusion,1140,0.0012473110742557379
+stressed,conservative topology-B prior,balanced full fusion,1160,0.00090414680596125454
+stressed,conservative topology-B prior,balanced full fusion,1180,0.00064976760970580807
+stressed,conservative topology-B prior,balanced full fusion,1200,0.0004629493254036747
+nominal,conservative topology-B prior,skeptical text fusion,0,0.99999999999999956
+nominal,conservative topology-B prior,skeptical text fusion,20,0.99992348676068143
+nominal,conservative topology-B prior,skeptical text fusion,40,0.99950081730455076
+nominal,conservative topology-B prior,skeptical text fusion,60,0.99849203309549439
+nominal,conservative topology-B prior,skeptical text fusion,80,0.99668252387500988
+nominal,conservative topology-B prior,skeptical text fusion,100,0.99387141373892041
+nominal,conservative topology-B prior,skeptical text fusion,120,0.98986889585492233
+nominal,conservative topology-B prior,skeptical text fusion,140,0.98449616668310591
+nominal,conservative topology-B prior,skeptical text fusion,160,0.97758658978132518
+nominal,conservative topology-B prior,skeptical text fusion,180,0.96898757128771273
+nominal,conservative topology-B prior,skeptical text fusion,200,0.9585628789614713
+nominal,conservative topology-B prior,skeptical text fusion,220,0.9461952257955456
+nominal,conservative topology-B prior,skeptical text fusion,240,0.93178897300478525
+nominal,conservative topology-B prior,skeptical text fusion,260,0.91527281938031657
+nominal,conservative topology-B prior,skeptical text fusion,280,0.89660234785178328
+nominal,conservative topology-B prior,skeptical text fusion,300,0.8757623017988222
+nominal,conservative topology-B prior,skeptical text fusion,320,0.85276846653875193
+nominal,conservative topology-B prior,skeptical text fusion,340,0.82766903748623055
+nominal,conservative topology-B prior,skeptical text fusion,360,0.80054536696751988
+nominal,conservative topology-B prior,skeptical text fusion,380,0.77151199726116582
+nominal,conservative topology-B prior,skeptical text fusion,400,0.74071590834196199
+nominal,conservative topology-B prior,skeptical text fusion,420,0.70833493478664744
+nominal,conservative topology-B prior,skeptical text fusion,440,0.67457533668092384
+nominal,conservative topology-B prior,skeptical text fusion,460,0.63966854305423193
+nominal,conservative topology-B prior,skeptical text fusion,480,0.6038671218956676
+nominal,conservative topology-B prior,skeptical text fusion,500,0.56744006641032951
+nominal,conservative topology-B prior,skeptical text fusion,520,0.53066752090351421
+nominal,conservative topology-B prior,skeptical text fusion,540,0.49383509950699411
+nominal,conservative topology-B prior,skeptical text fusion,560,0.45722797494270506
+nominal,conservative topology-B prior,skeptical text fusion,580,0.42112493093911435
+nominal,conservative topology-B prior,skeptical text fusion,600,0.38579257943646411
+nominal,conservative topology-B prior,skeptical text fusion,620,0.35147994150324557
+nominal,conservative topology-B prior,skeptical text fusion,640,0.31841357869861597
+nominal,conservative topology-B prior,skeptical text fusion,660,0.28679343986279254
+nominal,conservative topology-B prior,skeptical text fusion,680,0.25678955805279002
+nominal,conservative topology-B prior,skeptical text fusion,700,0.22853969520950215
+nominal,conservative topology-B prior,skeptical text fusion,720,0.20214799027233671
+nominal,conservative topology-B prior,skeptical text fusion,740,0.17768462231165735
+nominal,conservative topology-B prior,skeptical text fusion,760,0.1551864564412683
+nominal,conservative topology-B prior,skeptical text fusion,780,0.13465859937195823
+nominal,conservative topology-B prior,skeptical text fusion,800,0.11607675580344728
+nominal,conservative topology-B prior,skeptical text fusion,820,0.099390248345162607
+nominal,conservative topology-B prior,skeptical text fusion,840,0.084525543678852857
+nominal,conservative topology-B prior,skeptical text fusion,860,0.071390116968247083
+nominal,conservative topology-B prior,skeptical text fusion,880,0.059876485159703834
+nominal,conservative topology-B prior,skeptical text fusion,900,0.049866247244898756
+nominal,conservative topology-B prior,skeptical text fusion,920,0.041233984657510089
+nominal,conservative topology-B prior,skeptical text fusion,940,0.03385089620248987
+nominal,conservative topology-B prior,skeptical text fusion,960,0.027588067437134284
+nominal,conservative topology-B prior,skeptical text fusion,980,0.022319302285958739
+nominal,conservative topology-B prior,skeptical text fusion,1000,0.017923472963718514
+nominal,conservative topology-B prior,skeptical text fusion,1020,0.014286371270688296
+nominal,conservative topology-B prior,skeptical text fusion,1040,0.011302068571686511
+nominal,conservative topology-B prior,skeptical text fusion,1060,0.0088738122023374472
+nominal,conservative topology-B prior,skeptical text fusion,1080,0.0069145019914879551
+nominal,conservative topology-B prior,skeptical text fusion,1100,0.005346801774597721
+nominal,conservative topology-B prior,skeptical text fusion,1120,0.0041029472882068178
+nominal,conservative topology-B prior,skeptical text fusion,1140,0.0031243140693413647
+nominal,conservative topology-B prior,skeptical text fusion,1160,0.0023608075479160805
+nominal,conservative topology-B prior,skeptical text fusion,1180,0.0017701331660641855
+nominal,conservative topology-B prior,skeptical text fusion,1200,0.001316997895391977
+stressed,conservative topology-B prior,skeptical text fusion,0,0.99999999999999956
+stressed,conservative topology-B prior,skeptical text fusion,20,0.99991054279960678
+stressed,conservative topology-B prior,skeptical text fusion,40,0.99941654748961184
+stressed,conservative topology-B prior,skeptical text fusion,60,0.99823774051727709
+stressed,conservative topology-B prior,skeptical text fusion,80,0.99612360852236348
+stressed,conservative topology-B prior,skeptical text fusion,100,0.99284010460954319
+stressed,conservative topology-B prior,skeptical text fusion,120,0.98816690442497568
+stressed,conservative topology-B prior,skeptical text fusion,140,0.98189776438017273
+stressed,conservative topology-B prior,skeptical text fusion,160,0.97384236234815325
+stressed,conservative topology-B prior,skeptical text fusion,180,0.96382899407454525
+stressed,conservative topology-B prior,skeptical text fusion,200,0.95170778591191285
+stressed,conservative topology-B prior,skeptical text fusion,220,0.93735418399891146
+stressed,conservative topology-B prior,skeptical text fusion,240,0.92067251554494778
+stressed,conservative topology-B prior,skeptical text fusion,260,0.90159942950909322
+stressed,conservative topology-B prior,skeptical text fusion,280,0.88010702775505389
+stressed,conservative topology-B prior,skeptical text fusion,300,0.85620550144616225
+stressed,conservative topology-B prior,skeptical text fusion,320,0.82994509529445437
+stressed,conservative topology-B prior,skeptical text fusion,340,0.80141723684175115
+stressed,conservative topology-B prior,skeptical text fusion,360,0.77075469065872415
+stressed,conservative topology-B prior,skeptical text fusion,380,0.73813062873177193
+stressed,conservative topology-B prior,skeptical text fusion,400,0.70375654805794452
+stressed,conservative topology-B prior,skeptical text fusion,420,0.66787901346968925
+stressed,conservative topology-B prior,skeptical text fusion,440,0.63077525608206308
+stressed,conservative topology-B prior,skeptical text fusion,460,0.59274771293905448
+stressed,conservative topology-B prior,skeptical text fusion,480,0.55411764834630128
+stressed,conservative topology-B prior,skeptical text fusion,500,0.51521804860525044
+stressed,conservative topology-B prior,skeptical text fusion,520,0.47638602592355644
+stressed,conservative topology-B prior,skeptical text fusion,540,0.43795500089775102
+stressed,conservative topology-B prior,skeptical text fusion,560,0.40024695337596511
+stressed,conservative topology-B prior,skeptical text fusion,580,0.36356503671641782
+stressed,conservative topology-B prior,skeptical text fusion,600,0.32818683945924698
+stressed,conservative topology-B prior,skeptical text fusion,620,0.29435855136339845
+stressed,conservative topology-B prior,skeptical text fusion,640,0.26229024895145597
+stressed,conservative topology-B prior,skeptical text fusion,660,0.23215246160474823
+stressed,conservative topology-B prior,skeptical text fusion,680,0.20407411626983715
+stressed,conservative topology-B prior,skeptical text fusion,700,0.17814189108184633
+stressed,conservative topology-B prior,skeptical text fusion,720,0.15440094014841826
+stressed,conservative topology-B prior,skeptical text fusion,740,0.13285688782685867
+stressed,conservative topology-B prior,skeptical text fusion,760,0.1134789351368501
+stressed,conservative topology-B prior,skeptical text fusion,780,0.096203876831073454
+stressed,conservative topology-B prior,skeptical text fusion,800,0.080940797459328404
+stressed,conservative topology-B prior,skeptical text fusion,820,0.067576199721976746
+stressed,conservative topology-B prior,skeptical text fusion,840,0.055979318527622883
+stressed,conservative topology-B prior,skeptical text fusion,860,0.04600738832286904
+stressed,conservative topology-B prior,skeptical text fusion,880,0.037510657353198154
+stressed,conservative topology-B prior,skeptical text fusion,900,0.03033697772566726
+stressed,conservative topology-B prior,skeptical text fusion,920,0.024335841232736161
+stressed,conservative topology-B prior,skeptical text fusion,940,0.0193617745061717
+stressed,conservative topology-B prior,skeptical text fusion,960,0.015277050025757383
+stressed,conservative topology-B prior,skeptical text fusion,980,0.011953709063313382
+stressed,conservative topology-B prior,skeptical text fusion,1000,0.0092749266600137097
+stressed,conservative topology-B prior,skeptical text fusion,1020,0.0071357757848510171
+stressed,conservative topology-B prior,skeptical text fusion,1040,0.0054434672054597755
+stressed,conservative topology-B prior,skeptical text fusion,1060,0.0041171533015477322
+stressed,conservative topology-B prior,skeptical text fusion,1080,0.0030873886235981245
+stressed,conservative topology-B prior,skeptical text fusion,1100,0.0022953384364157734
+stressed,conservative topology-B prior,skeptical text fusion,1120,0.0016918200545294958
+stressed,conservative topology-B prior,skeptical text fusion,1140,0.0012362518594797721
+stressed,conservative topology-B prior,skeptical text fusion,1160,0.00089557285377926904
+stressed,conservative topology-B prior,skeptical text fusion,1180,0.00064318269077486261
+stressed,conservative topology-B prior,skeptical text fusion,1200,0.00045793935818907891
+nominal,conservative topology-B prior,sensor-emphasized fusion,0,0.99999999999999567
+nominal,conservative topology-B prior,sensor-emphasized fusion,20,0.9999233281431541
+nominal,conservative topology-B prior,sensor-emphasized fusion,40,0.9994997958451991
+nominal,conservative topology-B prior,sensor-emphasized fusion,60,0.9984889686121764
+nominal,conservative topology-B prior,sensor-emphasized fusion,80,0.99667581146601036
+nominal,conservative topology-B prior,sensor-emphasized fusion,100,0.99385905269550778
+nominal,conservative topology-B prior,sensor-emphasized fusion,120,0.9898485164667099
+nominal,conservative topology-B prior,sensor-emphasized fusion,140,0.98446506115895926
+nominal,conservative topology-B prior,sensor-emphasized fusion,160,0.97754175041331159
+nominal,conservative topology-B prior,sensor-emphasized fusion,180,0.96892573770417334
+nominal,conservative topology-B prior,sensor-emphasized fusion,200,0.95848059552692688
+nominal,conservative topology-B prior,sensor-emphasized fusion,220,0.94608890957039959
+nominal,conservative topology-B prior,sensor-emphasized fusion,240,0.93165499206242719
+nominal,conservative topology-B prior,sensor-emphasized fusion,260,0.91510758065633746
+nominal,conservative topology-B prior,sensor-emphasized fusion,280,0.89640239306577763
+nominal,conservative topology-B prior,sensor-emphasized fusion,300,0.87552440935957709
+nominal,conservative topology-B prior,sensor-emphasized fusion,320,0.85248975674265071
+nominal,conservative topology-B prior,sensor-emphasized fusion,340,0.8273470777807076
+nominal,conservative topology-B prior,sensor-emphasized fusion,360,0.80017827361208937
+nominal,conservative topology-B prior,sensor-emphasized fusion,380,0.77109852941570778
+nominal,conservative topology-B prior,sensor-emphasized fusion,400,0.74025555048028024
+nominal,conservative topology-B prior,sensor-emphasized fusion,420,0.70782796340143028
+nominal,conservative topology-B prior,sensor-emphasized fusion,440,0.67402286753439644
+nominal,conservative topology-B prior,sensor-emphasized fusion,460,0.63907255574334909
+nominal,conservative topology-B prior,sensor-emphasized fusion,480,0.60323045923579344
+nominal,conservative topology-B prior,sensor-emphasized fusion,500,0.56676640707358117
+nominal,conservative topology-B prior,sensor-emphasized fusion,520,0.52996132483899294
+nominal,conservative topology-B prior,sensor-emphasized fusion,540,0.49310152686704445
+nominal,conservative topology-B prior,sensor-emphasized fusion,560,0.45647278047681045
+nominal,conservative topology-B prior,sensor-emphasized fusion,580,0.4203543370223326
+nominal,conservative topology-B prior,sensor-emphasized fusion,600,0.38501313199609394
+nominal,conservative topology-B prior,sensor-emphasized fusion,620,0.35069835402277011
+nominal,conservative topology-B prior,sensor-emphasized fusion,640,0.31763657014710522
+nominal,conservative topology-B prior,sensor-emphasized fusion,660,0.28602757277034502
+nominal,conservative topology-B prior,sensor-emphasized fusion,680,0.25604108299691303
+nominal,conservative topology-B prior,sensor-emphasized fusion,700,0.22781440768395311
+nominal,conservative topology-B prior,sensor-emphasized fusion,720,0.20145110529284305
+nominal,conservative topology-B prior,sensor-emphasized fusion,740,0.17702067120944981
+nominal,conservative topology-B prior,sensor-emphasized fusion,760,0.15455920916262689
+nominal,conservative topology-B prior,sensor-emphasized fusion,780,0.13407101431370191
+nominal,conservative topology-B prior,sensor-emphasized fusion,800,0.11553095785387975
+nominal,conservative topology-B prior,sensor-emphasized fusion,820,0.098887534454641782
+nominal,conservative topology-B prior,sensor-emphasized fusion,840,0.084066414037190298
+nominal,conservative topology-B prior,sensor-emphasized fusion,860,0.070974328791159322
+nominal,conservative topology-B prior,sensor-emphasized fusion,880,0.059503125241415128
+nominal,conservative topology-B prior,sensor-emphasized fusion,900,0.049533818857389389
+nominal,conservative topology-B prior,sensor-emphasized fusion,920,0.040940504085991314
+nominal,conservative topology-B prior,sensor-emphasized fusion,940,0.03359399419731824
+nominal,conservative topology-B prior,sensor-emphasized fusion,960,0.02736509111076944
+nominal,conservative topology-B prior,sensor-emphasized fusion,980,0.022127413449869082
+nominal,conservative topology-B prior,sensor-emphasized fusion,1000,0.017759739532877464
+nominal,conservative topology-B prior,sensor-emphasized fusion,1020,0.014147849104639829
+nominal,conservative topology-B prior,sensor-emphasized fusion,1040,0.0111858719120842
+nominal,conservative topology-B prior,sensor-emphasized fusion,1060,0.0087771716519255104
+nominal,conservative topology-B prior,sensor-emphasized fusion,1080,0.0068348097107922478
+nominal,conservative topology-B prior,sensor-emphasized fusion,1100,0.0052816442125062065
+nominal,conservative topology-B prior,sensor-emphasized fusion,1120,0.0040501262853176083
+nominal,conservative topology-B prior,sensor-emphasized fusion,1140,0.0030818575647530147
+nominal,conservative topology-B prior,sensor-emphasized fusion,1160,0.0023269713786224079
+nominal,conservative topology-B prior,sensor-emphasized fusion,1180,0.0017433955805698492
+nominal,conservative topology-B prior,sensor-emphasized fusion,1200,0.0012960484243115906
+stressed,conservative topology-B prior,sensor-emphasized fusion,0,0.99999999999999567
+stressed,conservative topology-B prior,sensor-emphasized fusion,20,0.99991035715478227
+stressed,conservative topology-B prior,sensor-emphasized fusion,40,0.99941535181857089
+stressed,conservative topology-B prior,sensor-emphasized fusion,60,0.99823415267123106
+stressed,conservative topology-B prior,sensor-emphasized fusion,80,0.99611574867309993
+stressed,conservative topology-B prior,sensor-emphasized fusion,100,0.99282563046940264
+stressed,conservative topology-B prior,sensor-emphasized fusion,120,0.98814304556748644
+stressed,conservative topology-B prior,sensor-emphasized fusion,140,0.98186136318468498
+stressed,conservative topology-B prior,sensor-emphasized fusion,160,0.97378992538375886
+stressed,conservative topology-B prior,sensor-emphasized fusion,180,0.963756756121674
+stressed,conservative topology-B prior,sensor-emphasized fusion,200,0.95161178774842103
+stressed,conservative topology-B prior,sensor-emphasized fusion,220,0.93723036414690952
+stressed,conservative topology-B prior,sensor-emphasized fusion,240,0.92051681525760265
+stressed,conservative topology-B prior,sensor-emphasized fusion,260,0.90140790934221027
+stressed,conservative topology-B prior,sensor-emphasized fusion,280,0.87987599312846909
+stressed,conservative topology-B prior,sensor-emphasized fusion,300,0.85593163369016967
+stressed,conservative topology-B prior,sensor-emphasized fusion,320,0.82962558384767915
+stressed,conservative topology-B prior,sensor-emphasized fusion,340,0.80104990757797379
+stressed,conservative topology-B prior,sensor-emphasized fusion,360,0.77033812483381658
+stressed,conservative topology-B prior,sensor-emphasized fusion,380,0.73766426681522668
+stressed,conservative topology-B prior,sensor-emphasized fusion,400,0.70324077279692188
+stressed,conservative topology-B prior,sensor-emphasized fusion,420,0.66731520695893154
+stressed,conservative topology-B prior,sensor-emphasized fusion,440,0.63016582639337049
+stressed,conservative topology-B prior,sensor-emphasized fusion,460,0.59209608698566285
+stressed,conservative topology-B prior,sensor-emphasized fusion,480,0.55342822908005906
+stressed,conservative topology-B prior,sensor-emphasized fusion,500,0.51449613629971624
+stressed,conservative topology-B prior,sensor-emphasized fusion,520,0.47563770509173631
+stressed,conservative topology-B prior,sensor-emphasized fusion,540,0.43718699621684487
+stressed,conservative topology-B prior,sensor-emphasized fusion,560,0.3994664597209896
+stressed,conservative topology-B prior,sensor-emphasized fusion,580,0.36277952991447038
+stressed,conservative topology-B prior,sensor-emphasized fusion,600,0.32740387555215023
+stressed,conservative topology-B prior,sensor-emphasized fusion,620,0.2935855629124694
+stressed,conservative topology-B prior,sensor-emphasized fusion,640,0.26153434716859703
+stressed,conservative topology-B prior,sensor-emphasized fusion,660,0.23142025281940268
+stressed,conservative topology-B prior,sensor-emphasized fusion,680,0.20337154045239209
+stressed,conservative topology-B prior,sensor-emphasized fusion,700,0.17747408889245372
+stressed,conservative topology-B prior,sensor-emphasized fusion,720,0.15377215335400116
+stressed,conservative topology-B prior,sensor-emphasized fusion,740,0.13227039604587429
+stressed,conservative topology-B prior,sensor-emphasized fusion,760,0.11293702986739634
+stressed,conservative topology-B prior,sensor-emphasized fusion,780,0.095707871736244537
+stressed,conservative topology-B prior,sensor-emphasized fusion,800,0.080491072061298533
+stressed,conservative topology-B prior,sensor-emphasized fusion,820,0.067172272111944001
+stressed,conservative topology-B prior,sensor-emphasized fusion,840,0.05561994152394642
+stressed,conservative topology-B prior,sensor-emphasized fusion,860,0.045690662761201678
+stressed,conservative topology-B prior,sensor-emphasized fusion,880,0.037234155889799656
+stressed,conservative topology-B prior,sensor-emphasized fusion,900,0.030097872661324739
+stressed,conservative topology-B prior,sensor-emphasized fusion,920,0.024131030370672445
+stressed,conservative topology-B prior,sensor-emphasized fusion,940,0.019187999868664707
+stressed,conservative topology-B prior,sensor-emphasized fusion,960,0.015131005280558794
+stressed,conservative topology-B prior,sensor-emphasized fusion,980,0.011832132655307739
+stressed,conservative topology-B prior,sensor-emphasized fusion,1000,0.0091746788116331881
+stressed,conservative topology-B prior,sensor-emphasized fusion,1020,0.007053898636782476
+stressed,conservative topology-B prior,sensor-emphasized fusion,1040,0.0053772283498590206
+stressed,conservative topology-B prior,sensor-emphasized fusion,1060,0.0040640737659057768
+stressed,conservative topology-B prior,sensor-emphasized fusion,1080,0.00304525696823621
+stressed,conservative topology-B prior,sensor-emphasized fusion,1100,0.0022622130258796928
+stressed,conservative topology-B prior,sensor-emphasized fusion,1120,0.0016660217635829939
+stressed,conservative topology-B prior,sensor-emphasized fusion,1140,0.0012163495017952569
+stressed,conservative topology-B prior,sensor-emphasized fusion,1160,0.00088036350827526075
+stressed,conservative topology-B prior,sensor-emphasized fusion,1180,0.00063166888354758833
+stressed,conservative topology-B prior,sensor-emphasized fusion,1200,0.00044930477403513658
+nominal,conservative topology-B prior,model-emphasized fusion,0,0.99999999999999512
+nominal,conservative topology-B prior,model-emphasized fusion,20,0.99992405436244591
+nominal,conservative topology-B prior,model-emphasized fusion,40,0.99950450034158378
+nominal,conservative topology-B prior,model-emphasized fusion,60,0.99850313639248789
+nominal,conservative topology-B prior,model-emphasized fusion,80,0.99670693064938276
+nominal,conservative topology-B prior,model-emphasized fusion,100,0.99391648265970511
+nominal,conservative topology-B prior,model-emphasized fusion,120,0.98994336358600155
+nominal,conservative topology-B prior,model-emphasized fusion,140,0.98461003415709814
+nominal,conservative topology-B prior,model-emphasized fusion,160,0.97775098117528558
+nominal,conservative topology-B prior,model-emphasized fusion,180,0.9692145591497624
+nominal,conservative topology-B prior,model-emphasized fusion,200,0.95886527173034564
+nominal,conservative topology-B prior,model-emphasized fusion,220,0.9465863162676037
+nominal,conservative topology-B prior,model-emphasized fusion,240,0.93228224853076258
+nominal,conservative topology-B prior,model-emphasized fusion,260,0.9158816368404713
+nominal,conservative topology-B prior,model-emphasized fusion,280,0.89733957877168968
+nominal,conservative topology-B prior,model-emphasized fusion,300,0.87663995527256489
+nominal,conservative topology-B prior,model-emphasized fusion,320,0.85379729982703767
+nominal,conservative topology-B prior,model-emphasized fusion,340,0.8288581661336657
+nominal,conservative topology-B prior,model-emphasized fusion,360,0.801901887901732
+nominal,conservative topology-B prior,model-emphasized fusion,380,0.77304063945926427
+nominal,conservative topology-B prior,model-emphasized fusion,400,0.7424187261494728
+nominal,conservative topology-B prior,model-emphasized fusion,420,0.71021105874406876
+nominal,conservative topology-B prior,model-emphasized fusion,440,0.67662079568063216
+nominal,conservative topology-B prior,model-emphasized fusion,460,0.64187616978638706
+nominal,conservative topology-B prior,model-emphasized fusion,480,0.60622655087004318
+nominal,conservative topology-B prior,model-emphasized fusion,500,0.56993783044269575
+nominal,conservative topology-B prior,model-emphasized fusion,520,0.53328724796832461
+nominal,conservative topology-B prior,model-emphasized fusion,540,0.4965578074764076
+nominal,conservative topology-B prior,model-emphasized fusion,560,0.46003245719042768
+nominal,conservative topology-B prior,model-emphasized fusion,580,0.42398822135387415
+nominal,conservative topology-B prior,model-emphasized fusion,600,0.38869048134077394
+nominal,conservative topology-B prior,model-emphasized fusion,620,0.35438760157828098
+nominal,conservative topology-B prior,model-emphasized fusion,640,0.32130608451305681
+nominal,conservative topology-B prior,model-emphasized fusion,660,0.28964641817979264
+nominal,conservative topology-B prior,model-emphasized fusion,680,0.25957975086351387
+nominal,conservative topology-B prior,model-emphasized fusion,700,0.23124549145293868
+nominal,conservative topology-B prior,model-emphasized fusion,720,0.2047498934017663
+nominal,conservative topology-B prior,model-emphasized fusion,740,0.18016563712717037
+nominal,conservative topology-B prior,model-emphasized fusion,760,0.15753238271846803
+nominal,conservative topology-B prior,model-emphasized fusion,780,0.13685822451387539
+nominal,conservative topology-B prior,model-emphasized fusion,800,0.11812194372164939
+nominal,conservative topology-B prior,model-emphasized fusion,820,0.10127592671938629
+nominal,conservative topology-B prior,model-emphasized fusion,840,0.086249596345936319
+nominal,conservative topology-B prior,model-emphasized fusion,860,0.072953192179703544
+nominal,conservative topology-B prior,model-emphasized fusion,880,0.061281733607482201
+nominal,conservative topology-B prior,model-emphasized fusion,900,0.051119005940999815
+nominal,conservative topology-B prior,model-emphasized fusion,920,0.042341423897230557
+nominal,conservative topology-B prior,model-emphasized fusion,940,0.034821646953156753
+nominal,conservative topology-B prior,model-emphasized fusion,960,0.028431845656265976
+nominal,conservative topology-B prior,model-emphasized fusion,980,0.023046545026379563
+nominal,conservative topology-B prior,model-emphasized fusion,1000,0.018544998853195466
+nominal,conservative topology-B prior,model-emphasized fusion,1020,0.014813075269676661
+nominal,conservative topology-B prior,model-emphasized fusion,1040,0.011744658029961458
+nominal,conservative topology-B prior,model-emphasized fusion,1060,0.0092425883570231779
+nominal,conservative topology-B prior,model-emphasized fusion,1080,0.0072191883523292583
+nominal,conservative topology-B prior,model-emphasized fusion,1100,0.0055964184676557949
+nominal,conservative topology-B prior,model-emphasized fusion,1120,0.004305728474297112
+nominal,conservative topology-B prior,model-emphasized fusion,1140,0.0032876640723004794
+nominal,conservative topology-B prior,model-emphasized fusion,1160,0.0024912903326128706
+nominal,conservative topology-B prior,model-emphasized fusion,1180,0.0018734892737219233
+nominal,conservative topology-B prior,model-emphasized fusion,1200,0.0013981828231759308
+stressed,conservative topology-B prior,model-emphasized fusion,0,0.99999999999999512
+stressed,conservative topology-B prior,model-emphasized fusion,20,0.99991120694453728
+stressed,conservative topology-B prior,model-emphasized fusion,40,0.99942085721149565
+stressed,conservative topology-B prior,model-emphasized fusion,60,0.99825073470822889
+stressed,conservative topology-B prior,model-emphasized fusion,80,0.99615217363268649
+stressed,conservative topology-B prior,model-emphasized fusion,100,0.99289284872303307
+stressed,conservative topology-B prior,model-emphasized fusion,120,0.98825403208391471
+stressed,conservative topology-B prior,model-emphasized fusion,140,0.98203092582982432
+stressed,conservative topology-B prior,model-emphasized fusion,160,0.97403446373558
+stressed,conservative topology-B prior,model-emphasized fusion,180,0.96409396080212617
+stressed,conservative topology-B prior,model-emphasized fusion,200,0.95206027515420977
+stressed,conservative topology-B prior,model-emphasized fusion,220,0.93780924573882862
+stressed,conservative topology-B prior,model-emphasized fusion,240,0.92124520480664585
+stressed,conservative topology-B prior,model-emphasized fusion,260,0.90230437586337964
+stressed,conservative topology-B prior,model-emphasized fusion,280,0.88095797160112144
+stressed,conservative topology-B prior,model-emphasized fusion,300,0.85721480989878995
+stressed,conservative topology-B prior,model-emphasized fusion,320,0.83112327354244597
+stressed,conservative topology-B prior,model-emphasized fusion,340,0.80277245337406389
+stressed,conservative topology-B prior,model-emphasized fusion,360,0.77229233655476759
+stressed,conservative topology-B prior,model-emphasized fusion,380,0.73985293206516345
+stressed,conservative topology-B prior,model-emphasized fusion,400,0.70566226418983691
+stressed,conservative topology-B prior,model-emphasized fusion,420,0.66996321048512697
+stressed,conservative topology-B prior,model-emphasized fusion,440,0.63302921180345451
+stressed,conservative topology-B prior,model-emphasized fusion,460,0.59515893587935065
+stressed,conservative topology-B prior,model-emphasized fusion,480,0.55667002978655988
+stressed,conservative topology-B prior,model-emphasized fusion,500,0.51789214694082153
+stressed,conservative topology-B prior,model-emphasized fusion,520,0.47915947785653795
+stressed,conservative topology-B prior,model-emphasized fusion,540,0.44080304736575804
+stressed,conservative topology-B prior,model-emphasized fusion,560,0.40314306174762193
+stressed,conservative topology-B prior,model-emphasized fusion,580,0.36648159520733176
+stressed,conservative topology-B prior,model-emphasized fusion,600,0.33109589535139083
+stressed,conservative topology-B prior,model-emphasized fusion,620,0.29723256179826102
+stressed,conservative topology-B prior,model-emphasized fusion,640,0.26510281205891367
+stressed,conservative topology-B prior,model-emphasized fusion,660,0.23487899663962877
+stressed,conservative topology-B prior,model-emphasized fusion,680,0.20669246422355075
+stressed,conservative topology-B prior,model-emphasized fusion,700,0.18063281173640086
+stressed,conservative topology-B prior,model-emphasized fusion,720,0.15674848742854186
+stressed,conservative topology-B prior,model-emphasized fusion,740,0.13504865215910453
+stressed,conservative topology-B prior,model-emphasized fusion,760,0.11550614884732399
+stressed,conservative topology-B prior,model-emphasized fusion,780,0.098061385884571195
+stressed,conservative topology-B prior,model-emphasized fusion,800,0.082626909560465825
+stressed,conservative topology-B prior,model-emphasized fusion,820,0.069092424524759805
+stressed,conservative topology-B prior,model-emphasized fusion,840,0.057330020094623776
+stressed,conservative topology-B prior,model-emphasized fusion,860,0.04719937282325519
+stressed,conservative topology-B prior,model-emphasized fusion,880,0.038552720210732874
+stressed,conservative topology-B prior,model-emphasized fusion,900,0.031239434076992874
+stressed,conservative topology-B prior,model-emphasized fusion,920,0.025110061804813275
+stressed,conservative topology-B prior,model-emphasized fusion,940,0.020019746134594511
+stressed,conservative topology-B prior,model-emphasized fusion,960,0.01583097633879996
+stressed,conservative topology-B prior,model-emphasized fusion,980,0.012415662702009956
+stressed,conservative topology-B prior,model-emphasized fusion,1000,0.0096565601370223846
+stressed,conservative topology-B prior,model-emphasized fusion,1020,0.0074480940124326779
+stressed,conservative topology-B prior,model-emphasized fusion,1040,0.0056966610956022878
+stressed,conservative topology-B prior,model-emphasized fusion,1060,0.0043204908374029349
+stressed,conservative topology-B prior,model-emphasized fusion,1080,0.0032491575232067621
+stressed,conservative topology-B prior,model-emphasized fusion,1100,0.0024228330066305239
+stressed,conservative topology-B prior,model-emphasized fusion,1120,0.0017913640315603279
+stressed,conservative topology-B prior,model-emphasized fusion,1140,0.00131324887005481
+stressed,conservative topology-B prior,model-emphasized fusion,1160,0.00095457649217290004
+stressed,conservative topology-B prior,model-emphasized fusion,1180,0.00068797895987823376
+stressed,conservative topology-B prior,model-emphasized fusion,1200,0.00049163523324547982

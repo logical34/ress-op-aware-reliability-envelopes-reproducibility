@@ -1,0 +1,5 @@
+subset,conditions,fault_modes,train_engines,test_engines,train_rows,test_rows,median_train_life,median_test_total_life,description
+FD001,1,1,100,100,20631,13096,199,199,"one condition, one fault mode"
+FD002,6,1,260,259,53759,33991,199,204,"six conditions, one fault mode"
+FD003,1,2,100,100,24720,16596,220.5,222.5,"one condition, two fault modes"
+FD004,6,2,249,248,61249,41214,234,235,"six conditions, two fault modes"

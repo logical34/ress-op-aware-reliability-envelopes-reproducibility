@@ -471,7 +471,10 @@ def fit_brier_weight(
     def objective_jac(omega: np.ndarray) -> np.ndarray:
         return brier_loss_gradient(np.asarray(omega), predictions, labels, conditions, pi)
 
-    result = minimize(objective, initial, jac=objective_jac, method="SLSQP", bounds=bounds, constraints=constraints)
+    result = minimize(
+        objective, initial, jac=objective_jac, method="SLSQP", bounds=bounds,
+        constraints=constraints, options={"ftol": 1e-12, "maxiter": 1000, "disp": False},
+    )
     if not result.success or np.any(~np.isfinite(result.x)):
         values = np.array([objective(row) for row in SIMPLEX_WEIGHTS], dtype=float)
         idx = int(np.argmin(values))

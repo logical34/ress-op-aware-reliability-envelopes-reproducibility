@@ -1,0 +1,13 @@
+prior,strength,samples,ess
+optimistic topology-B prior,balanced full fusion,20000,1728.56727376449
+optimistic topology-B prior,skeptical text fusion,20000,1637.2970958495521
+optimistic topology-B prior,sensor-emphasized fusion,20000,1536.2325891036112
+optimistic topology-B prior,model-emphasized fusion,20000,2088.8307533068742
+central topology-B prior,balanced full fusion,20000,1002.8634671436839
+central topology-B prior,skeptical text fusion,20000,946.55589437100889
+central topology-B prior,sensor-emphasized fusion,20000,895.16543800252077
+central topology-B prior,model-emphasized fusion,20000,1184.4789519103304
+conservative topology-B prior,balanced full fusion,20000,436.41371002557622
+conservative topology-B prior,skeptical text fusion,20000,408.4419424463245
+conservative topology-B prior,sensor-emphasized fusion,20000,386.50417813234537
+conservative topology-B prior,model-emphasized fusion,20000,508.92377152966657

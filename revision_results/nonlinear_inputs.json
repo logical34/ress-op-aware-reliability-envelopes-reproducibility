@@ -1,0 +1,261 @@
+{
+  "seed": 20261014,
+  "samples_per_prior": 20000,
+  "time_h": [
+    0.0,
+    20.0,
+    40.0,
+    60.0,
+    80.0,
+    100.0,
+    120.0,
+    140.0,
+    160.0,
+    180.0,
+    200.0,
+    220.0,
+    240.0,
+    260.0,
+    280.0,
+    300.0,
+    320.0,
+    340.0,
+    360.0,
+    380.0,
+    400.0,
+    420.0,
+    440.0,
+    460.0,
+    480.0,
+    500.0,
+    520.0,
+    540.0,
+    560.0,
+    580.0,
+    600.0,
+    620.0,
+    640.0,
+    660.0,
+    680.0,
+    700.0,
+    720.0,
+    740.0,
+    760.0,
+    780.0,
+    800.0,
+    820.0,
+    840.0,
+    860.0,
+    880.0,
+    900.0,
+    920.0,
+    940.0,
+    960.0,
+    980.0,
+    1000.0,
+    1020.0,
+    1040.0,
+    1060.0,
+    1080.0,
+    1100.0,
+    1120.0,
+    1140.0,
+    1160.0,
+    1180.0,
+    1200.0
+  ],
+  "reference_time_h": 400,
+  "weibull_shapes": [
+    1.4,
+    2.0,
+    2.6,
+    1.8,
+    2.2,
+    3.0
+  ],
+  "component_test_trials": 12,
+  "component_failures": [
+    1,
+    2,
+    2,
+    1,
+    2,
+    2
+  ],
+  "input_evidence_profile": [
+    0.45,
+    0.27,
+    0.18,
+    0.1
+  ],
+  "output_evidence_profile": [
+    0.5,
+    0.25,
+    0.15,
+    0.1
+  ],
+  "query_profiles": {
+    "nominal": [
+      0.5,
+      0.25,
+      0.15,
+      0.1
+    ],
+    "stressed": [
+      0.22,
+      0.38,
+      0.25,
+      0.15
+    ]
+  },
+  "prior_hazard_means_per_hour": [
+    0.0002,
+    0.00022,
+    0.00027,
+    0.00018,
+    0.00021,
+    0.00024
+  ],
+  "prior_scenarios": [
+    {
+      "name": "optimistic topology-B prior",
+      "mean_scale": 0.88,
+      "cv": 0.38
+    },
+    {
+      "name": "central topology-B prior",
+      "mean_scale": 1.0,
+      "cv": 0.48
+    },
+    {
+      "name": "conservative topology-B prior",
+      "mean_scale": 1.22,
+      "cv": 0.58
+    }
+  ],
+  "strength_scenarios": [
+    {
+      "name": "balanced full fusion",
+      "field": 1.0,
+      "sensor": 0.8,
+      "simulation": 0.45,
+      "logs": 0.45,
+      "llm_text": 0.1
+    },
+    {
+      "name": "skeptical text fusion",
+      "field": 1.0,
+      "sensor": 0.85,
+      "simulation": 0.45,
+      "logs": 0.5,
+      "llm_text": 0.0
+    },
+    {
+      "name": "sensor-emphasized fusion",
+      "field": 1.0,
+      "sensor": 1.0,
+      "simulation": 0.3,
+      "logs": 0.35,
+      "llm_text": 0.08
+    },
+    {
+      "name": "model-emphasized fusion",
+      "field": 0.9,
+      "sensor": 0.6,
+      "simulation": 0.75,
+      "logs": 0.35,
+      "llm_text": 0.08
+    }
+  ],
+  "source_lognormal_observations_per_hour": {
+    "sensor": [
+      0.00028,
+      0.00033,
+      0.00041,
+      0.00025,
+      0.00033,
+      0.00038
+    ],
+    "simulation": [
+      0.00025,
+      0.0003,
+      0.00037,
+      0.00022,
+      0.0003,
+      0.00035
+    ],
+    "logs": [
+      0.0003,
+      0.00035,
+      0.00043,
+      0.00026,
+      0.00036,
+      0.0004
+    ],
+    "llm_text": [
+      0.00029,
+      0.00036,
+      0.00044,
+      0.00027,
+      0.00037,
+      0.00041
+    ]
+  },
+  "source_log_standard_deviations": {
+    "sensor": 0.35,
+    "simulation": 0.5,
+    "logs": 0.6,
+    "llm_text": 0.8
+  },
+  "load_multiplier_matrix": [
+    [
+      1.0,
+      1.55,
+      1.3,
+      1.2
+    ],
+    [
+      1.0,
+      1.45,
+      1.4,
+      1.3
+    ],
+    [
+      1.0,
+      2.1,
+      1.8,
+      1.5
+    ],
+    [
+      1.0,
+      1.4,
+      1.9,
+      1.6
+    ],
+    [
+      1.0,
+      1.5,
+      2.0,
+      1.7
+    ],
+    [
+      1.0,
+      1.8,
+      1.6,
+      2.2
+    ]
+  ],
+  "output_observation": 0.76,
+  "output_sigma": 0.028,
+  "output_discrepancy_shifts": [
+    -0.015,
+    0.0,
+    0.015
+  ],
+  "output_discrepancy_masses": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "theta_definition": "dimensionless cumulative-hazard coefficient at reference time; theta=400*baseline hazard"
+}

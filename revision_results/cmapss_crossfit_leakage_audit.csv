@@ -1,0 +1,5 @@
+subset,n_engines,folds,min_eval_engines,max_eval_engines,max_train_eval_intersection,each_engine_one_fold,reproducibility_seed
+FD001,100,5,20,20,0,True,20260620
+FD002,259,5,49,55,0,True,20260620
+FD003,100,5,20,20,0,True,20260620
+FD004,248,5,46,51,0,True,20260620
