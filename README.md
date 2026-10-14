@@ -4,7 +4,7 @@ This repository supports the manuscript:
 
 Decision-Oriented Reliability Envelopes for Complex Systems under Multi-Source and Profile-Dependent Uncertainty
 
-It contains code, configuration files, controlled synthetic inputs, processed numerical tables, and figure source data for reproducing the reported Case A/B/C analyses. The revision evidence is archived at tag `revision-p0-2026-10-14-verified`. Manuscript and reviewer-response files are maintained separately.
+It contains code, configuration files, controlled synthetic inputs, processed numerical tables, and figure source data for reproducing the reported Case A/B/C analyses. The revision evidence is archived at tag `p0-2026-10-14`. Manuscript and reviewer-response files are maintained separately.
 
 ## Contents
 

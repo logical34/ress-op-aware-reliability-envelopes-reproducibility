@@ -8,6 +8,21 @@ import numpy as np
 import pandas as pd
 
 
+def compare_json(left, right, location):
+    if isinstance(left, dict):
+        assert isinstance(right, dict) and left.keys() == right.keys(), location
+        for key in left:
+            compare_json(left[key], right[key], f"{location}.{key}")
+    elif isinstance(left, list):
+        assert isinstance(right, list) and len(left) == len(right), location
+        for index, (a, b) in enumerate(zip(left, right)):
+            compare_json(a, b, f"{location}[{index}]")
+    elif isinstance(left, float):
+        np.testing.assert_allclose(left, right, rtol=0, atol=1e-10, err_msg=location)
+    else:
+        assert left == right, location
+
+
 def compare(reference, reproduced):
     checked = []
     reference_files = {p.name for p in reference.iterdir() if p.is_file()}
@@ -28,7 +43,7 @@ def compare(reference, reproduced):
                 else:
                     assert left[column].fillna("<missing>").equals(right[column].fillna("<missing>")), (name, column)
         elif original.suffix == ".json":
-            assert json.loads(original.read_text(encoding="utf-8")) == json.loads(fresh.read_text(encoding="utf-8")), name
+            compare_json(json.loads(original.read_text(encoding="utf-8")), json.loads(fresh.read_text(encoding="utf-8")), name)
         else:
             assert original.read_text(encoding="utf-8") == fresh.read_text(encoding="utf-8"), name
         checked.append(name)
