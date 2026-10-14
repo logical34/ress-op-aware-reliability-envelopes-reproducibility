@@ -4,7 +4,7 @@ This repository supports the manuscript:
 
 Decision-Oriented Reliability Envelopes for Complex Systems under Multi-Source and Profile-Dependent Uncertainty
 
-It contains code, configuration files, controlled synthetic inputs, processed numerical tables, and figure source data for reproducing the reported Case A/B/C analyses. The revision evidence is archived at tag `revision-p0-2026-10-14-v2`. Manuscript and reviewer-response files are maintained separately.
+It contains code, configuration files, controlled synthetic inputs, processed numerical tables, and figure source data for reproducing the reported Case A/B/C analyses. The revision evidence is archived at tag `revision-p0-2026-10-14-verified`. Manuscript and reviewer-response files are maintained separately.
 
 ## Contents
 
@@ -90,4 +90,4 @@ The nonlinear extension is an explicit reconstruction of the revision specificat
 
 `hypothetical_budget_curves.csv` reproduces assumed exponential contractions without simulating observations or updating a posterior. These curves provide no empirical evidence that one validation policy outperforms another. Threshold sensitivity changes only the externally stated requirement.
 
-`run_provenance.json` records dependency versions, raw-file hashes, numerical-source hashes, and seeds. The comparison tolerates numerical differences up to `1e-10` and excludes timing columns only. Reproduction does not download external data or alter figure files. The forecasts evaluate total-life survival at observed age plus mission length, without conditioning by survival at the observed age; they are evaluated as candidate probabilities against the strict event `RUL > mission_cycles`.
+`run_provenance.json` records dependency versions, raw-file hashes, numerical-source hashes, and seeds. The comparison uses absolute tolerance `1e-10` and excludes timing columns only. The curvature-radius diagnostic additionally uses relative tolerance `1e-9`, because small eigenvalues amplify floating-point parsing differences; probability outputs retain the absolute-only tolerance. Reproduction does not download external data or alter figure files. The forecasts evaluate total-life survival at observed age plus mission length, without conditioning by survival at the observed age; they are evaluated as candidate probabilities against the strict event `RUL > mission_cycles`.

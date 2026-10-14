@@ -22,8 +22,9 @@ def compare(reference, reproduced):
                 if "runtime" in column:
                     continue
                 if pd.api.types.is_numeric_dtype(left[column]):
+                    relative_tolerance = 1e-9 if name == "conditional_curvature_diagnostics.csv" and column == "conditional_radius" else 0
                     np.testing.assert_allclose(left[column].to_numpy(), right[column].to_numpy(),
-                        rtol=0, atol=1e-10, err_msg=f"{name}: {column}")
+                        rtol=relative_tolerance, atol=1e-10, err_msg=f"{name}: {column}")
                 else:
                     assert left[column].fillna("<missing>").equals(right[column].fillna("<missing>")), (name, column)
         elif original.suffix == ".json":
@@ -32,7 +33,8 @@ def compare(reference, reproduced):
             assert original.read_text(encoding="utf-8") == fresh.read_text(encoding="utf-8"), name
         checked.append(name)
     print(json.dumps({"passed": True, "files_checked": len(checked),
-        "absolute_numeric_tolerance": 1e-10, "excluded_columns": "runtime measurements only",
+        "absolute_numeric_tolerance": 1e-10, "curvature_radius_relative_tolerance": 1e-9,
+        "excluded_columns": "runtime measurements only",
         "files": checked}, indent=2))
 
 
