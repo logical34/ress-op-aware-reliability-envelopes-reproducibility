@@ -1,0 +1,34 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.2.4",
+  "pandas": "3.0.1",
+  "scipy": "1.16.2",
+  "input_sha256": {
+    "cmapss_engine_level_predictions.csv": "07d736c3588fb89c668100ea24b77bed49b418f64d05506881b19ac12127cd7d",
+    "cmapss_profile_conditioned_fold_summary.csv": "fccc1941848896141116bff5c4229a9541d5214a11f297738dcd7a2036576e1e",
+    "cmapss_source_credibility_intervals.csv": "e5b8664f0dbdb637d31326d7cf1fa5f49279f74cf7ba1dee1c645e500d7ad9a6"
+  },
+  "source_sha256": {
+    "scripts/cmapss_case_study.py": "0f2b3de65a0bbd4577ec135be10c47f25027ffe292c7db02a5726e583cdd55bf",
+    "complete_revision_analysis.py": "b05fcec2abb6fb84e8fee56bbc27c1ebf4791ea01a3fa6cb76d54e64d6159ea1",
+    "profile_adaptation_analysis.py": "ca1b5ee48097e3637e5413f38733f67fc93b3c52f25ac6d10ecab4ff88166ce3"
+  },
+  "reused_bootstrap_tolerances": true,
+  "bootstrap_resamples_per_original_fit": 500,
+  "fold_seed": 20260620,
+  "folds": 5,
+  "mission_cycles": 100.0,
+  "arms": {
+    "transported": "Original-profile set",
+    "adapted_common_tolerance": "Target-profile set, common tolerance",
+    "adapted_target_tolerance": "Target-profile set, target tolerance"
+  },
+  "independent_face_checks": 30,
+  "max_objective_crosscheck_error": 1.897926260596705e-13,
+  "max_endpoint_crosscheck_error": 6.160005838751204e-11,
+  "max_archived_endpoint_error": 8.188449918122842e-12,
+  "no_held_out_labels_used_for_fitting": true,
+  "common_tolerance_control": "observed-profile tolerance in both transported and adapted sets",
+  "aggregation": "fold-engine-count weighted endpoints and scores",
+  "evaluation_profile": "same declared shifted profile in every arm"
+}

@@ -91,3 +91,15 @@ The nonlinear extension is an explicit reconstruction of the revision specificat
 `hypothetical_budget_curves.csv` reproduces assumed exponential contractions without simulating observations or updating a posterior. These curves provide no empirical evidence that one validation policy outperforms another. Threshold sensitivity changes only the externally stated requirement.
 
 `run_provenance.json` records dependency versions, raw-file hashes, numerical-source hashes, and seeds. The comparison uses absolute tolerance `1e-10` and excludes timing columns only. The curvature-radius diagnostic additionally uses relative tolerance `1e-9`, because small eigenvalues amplify floating-point parsing differences; probability outputs retain the absolute-only tolerance. Reproduction does not download external data or alter figure files. The forecasts evaluate total-life survival at observed age plus mission length, without conditioning by survival at the observed age; they are evaluated as candidate probabilities against the strict event `RUL > mission_cycles`.
+
+## Calibration-profile adaptation
+
+The R2.1 analysis isolates the influence of the calibration profile on the retained predictive set. All three constructions use the same FD002/FD004 source predictions, engine folds, and shifted-profile mission means. The first evaluates the original-profile admissible set under the shifted mission mix. The second recalibrates the loss for the shifted profile with the original fold-specific tolerance. The third also adopts the target-profile bootstrap tolerance, recovering the complete shifted-profile protocol. Tolerances come from the archived 500-resample calibration fits in `revision_results/`.
+
+```bash
+python profile_adaptation_analysis.py --results-dir revision_results --output-dir reproduced-profile-adaptation
+```
+
+The script requires the revision dependencies and the three archived prediction, fold-summary, and weight-projection tables. It checks fold assignments, calibration/evaluation separation, fitted optima, and all 30 endpoint problems using an independent simplex-face solver. It writes the six-row manuscript table, fold-level results, profile masses, weight changes, and numerical checks. Archived outputs are in `profile_adaptation_results/`. No additional data download or figure generation is involved.
+
+At a common tolerance, profile adaptation widens the FD002 interval and slightly narrows the FD004 interval. Held-out Brier loss decreases slightly in FD002 and increases slightly in FD004. All constructions retain the same classification at the illustrative requirement 0.80. These results characterize profile-dependent adaptation of the retained set.
